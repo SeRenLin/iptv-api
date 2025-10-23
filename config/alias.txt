@@ -130,3 +130,97 @@ NewTV农业致富,NEWTV农业致富,农业致富
 NewTV武搏世界,NEWTV武搏世界,武搏世界,武博世界,武术世界
 NewTV怡伴健康,NEWTV怡伴健康,怡伴健康
 NewTV中国功夫,NEWTV中国功夫,中国功夫
+
+##台灣
+
+民視第一台,民视_第一,民視第一台HD
+民視,民视_HD
+民視台灣台,民视_台湾,民視台灣台HD
+TVBS,TVBS_HD,TVBSHD
+TVBS精采台,TVBS精采台HD
+TVBS歡樂台,TVBS_欢乐
+中視,中视_HD,中视HD
+華視,华视_HD,华视HD
+三立綜合台,三立_综合,三立綜合台HD
+MTVLive音樂頻道,MTV Live HD,MTVLiveHD,mTV_音乐
+東森新聞台,东森_新闻
+Nick Jr.兒童頻道,Nick Jr. 兒童頻道,Nick Jr.,Nickelodeon,Nickelodeon Asia,Nick_动画
+中天新聞台,中天新聞台1,中天新聞台2中天新聞台3
+八大第1台,八大第一
+八大綜合台,八大精彩台,八大
+八大戲劇台,八大戏剧
+八大優頻道,八大優
+寰宇新聞台灣台HD,寰宇新聞台,寰宇新聞
+寰宇HD綜合台,寰宇HD綜合
+寰宇財經HD,寰宇財經,寰宇財經台
+寰宇財經,寰宇財經HD
+TVBS精采台,TVBS精采台HD
+博斯運動一台,博斯運動HD,博斯運動,博斯運動1
+博斯運動二台,博斯運動二台HD,博斯運動2
+博斯無限一台,博斯無限台HD,博斯無限台,博斯無限1
+博斯無限二台,博斯無限2,HD
+博斯網球台,博斯網球HD,博斯網球1HD
+博斯高球一台,Golf Channel (博斯高球),博斯高球1,博斯高球1台
+博斯高球二台,Golf Plus (博斯高球二台),博斯高球2,博斯高球2台
+博斯魅力網,博斯魅力HD,博斯魅力
+ELTV生活英語台,ELTV生活英語台,ELTV
+公視(HD),公視1台,公視,公視1,公視1HD
+公視2台,公視2台HD,公視2
+公視3台,公視3台HD,公視3
+公視台語台,公視台語台HD,公視台語
+公視戲劇台,公視戲劇台HD,公視戲劇
+公視兒少台,公視兒少台HD,公視兒少
+客家電視台,客家電視,客家電視台HD
+原住民族電視台,原住民族電視HD,原住民族電視
+滾動力 rollor,rollor
+Smart知識台,Smart知識台HD
+德國之聲電視台(英文台),DW德國之聲,德國之聲
+Bloomberg TV,Bloomberg
+Arirang TV阿里郎電視台,Arirang TV,Arirang TV HD,Arirang,ARIRANG阿里郎頻道
+車迷TV,車迷TV HD,車迷TVHD
+TV5MONDE STYLE 生活時尚,TV5MONDE STYLE HD 生活時尚,TV5MONDE STYLE HD,TV5MONDE Style,TV5MONDE
+TRACE Urban,TRACE Urban HD,TraceUrban
+LUXE TV,LUXETV,LUXE TV HD,LUXE TV Channel
+韓國娛樂台KMTV,韓國娛樂台KMTV HD,韓國娛樂台 KMTV
+Global Trekker 探索世界,Global Trekker,Global Trekker HD
+PET CLUB TV,PET CLUB TV HD,PetClubTV
+Mezzo Live,Mezzo Live HD
+Lifetime 娛樂頻道,Lifetime,Lifetime HD
+CLASSICA 古典樂,CLASSICA HD,CMusic
+MOMO 1台,momo1台HD,momo1
+MOMO 2台,momo2台HD,momo2
+MOMO親子台,momo親子台HD,momo親子
+MOMO綜合台,momo綜合台HD,momo綜合
+i-Fun動漫1台,i-Fun動漫台 HD,iFun1
+i-Fun動漫2台,i-Fun動漫2台 HD,iFun2
+i-Fun動漫3台,i-Fun動漫3台 HD,iFun3
+DreamWorks 夢工廠動畫,DREAMWORKS,Dreamworks
+ROCK Action,ROCK Action HD
+CinemaWorld,CinemaWorld HD
+電影原聲台CMusic,CMusic
+采昌影劇台,采昌影劇台HD
+影迷數位紀實台,影迷數位紀實台HD,影迷數位紀實
+影迷數位電影台,影迷數位電影台HD,影迷數位電影
+TRACE Sport Stars,TRACE Sport Stars HD,TraceSports
+智林體育台,智林體育HD
+CNBC Asia 財經台,CNBC Asia
+鏡電視新聞台,鏡電視新聞
+東森新聞台,東森新聞
+大愛一台,大愛電視HD,大愛電視,大愛
+大愛二台,大愛二台HD,大愛電視二台,大愛2
+人間衛視,人間衛視HD
+愛爾達娛樂台,愛爾達娛樂
+愛爾達影劇台.愛爾達影劇,愛爾達影劇台HD
+愛爾達綜合台,愛爾達綜合台HD
+愛爾達體育1台,愛爾達體育1
+愛爾達體育2台,愛爾達體育2
+愛爾達體育3台,愛爾達體育3
+愛爾達體育4台,愛爾達體育4
+龍華偶像HD,龍華偶像
+龍華動畫HD,龍華動畫
+龍華影劇HD,龍華影劇
+龍華戲劇HD,龍華戲劇
+龍華洋片HD,龍華洋片H
+龍華經典HD,龍華經典
+龍華電影HD,龍華電影
+龍華洋片台,龍華洋片台HD
