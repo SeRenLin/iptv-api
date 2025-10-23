@@ -111,56 +111,36 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
 #EXTINF:-1 tvg-name="Smart知識台" tvg-logo="https://iptv-org.github.io/channels/tw/Smart知識台.png" group-title="🇹🇼台灣頻道",Smart知識台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://iptv-org.github.io/channels/tw/凤凰中文.png" group-title="🇭🇰港·澳🌊",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://iptv-org.github.io/channels/tw/凤凰资讯.png" group-title="🇭🇰港·澳🌊",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://iptv-org.github.io/channels/tw/星空卫视.png" group-title="🎬电影频道",星空卫视
 http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV5.png" group-title="🏀体育频道",CCTV-5
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8664&tk=e640d0a1bf70
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV5.png" group-title="🏀体育频道",CCTV-5
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=068b29&tk=822270345d4c
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV5.png" group-title="🏀体育频道",CCTV-5
 http://ygbh.site/php/bfgd.php?id=064
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e68000&tk=6949f8ce7202
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7619&tk=e640d0a1bf70
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
 http://ygbh.site/php/bfgd.php?id=246
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://iptv-org.github.io/channels/tw/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://ygbh.site/php/bfgd.php?id=144
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://iptv-org.github.io/channels/tw/卡酷动画.png" group-title="🪁动画频道",卡酷动画
 http://ygbh.site/php/bfgd.php?id=106
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://iptv-org.github.io/channels/tw/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz02OWIyOTY4NDEwNDI5ZDBiNTQxNzkxYTMwOTQ1YWQxMiZ1aWQ9JnV1aWQ9MDcyMmMzYzc5ZGU3NjkyOGUxZTA5ZDY2MzZlZGQ4ZTYtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTI2MDEyNg,,/JYKTMPP360.m3u8
-#EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://iptv-org.github.io/channels/tw/漫画解说.png" group-title="🪁动画频道",漫画解说
-https://lunbo.freetv.top/yy/1382735568
 #EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://iptv-org.github.io/channels/tw/游戏竞技.png" group-title="🎮游戏频道",游戏竞技
 http://ygbh.site/php/bfgd.php?id=296
+#EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://iptv-org.github.io/channels/tw/游戏竞技.png" group-title="🎮游戏频道",游戏竞技
+http://ygbh.site/php/bfgd.php?id=142
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://ygbh.site/php/bfgd.php?id=133
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://iptv-org.github.io/channels/tw/音乐现场.png" group-title="🎵音乐频道",音乐现场
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://iptv-org.github.io/channels/tw/音乐现场.png" group-title="🎵音乐频道",音乐现场
 http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://iptv-org.github.io/channels/tw/音乐现场.png" group-title="🎵音乐频道",音乐现场
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 tvg-name="潮流音乐" tvg-logo="https://iptv-org.github.io/channels/tw/潮流音乐.png" group-title="🎵音乐频道",潮流音乐
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://iptv-org.github.io/channels/tw/天龙八部.png" group-title="🏛经典剧场",天龙八部
 https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
-#EXTINF:-1 tvg-name="水浒传" tvg-logo="https://iptv-org.github.io/channels/tw/水浒传.png" group-title="🏛经典剧场",水浒传
-https://lunbo.freetv.top/yy/1353215589
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV1.png" group-title="🇨🇳中國電視台📺",CCTV-1
 http://ygbh.site/php/bfgd.php?id=488
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV2.png" group-title="🇨🇳中國電視台📺",CCTV-2
 http://ygbh.site/php/bfgd.php?id=061
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV3.png" group-title="🇨🇳中國電視台📺",CCTV-3
 http://ygbh.site/php/bfgd.php?id=062
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV4.png" group-title="🇨🇳中國電視台📺",CCTV-4
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1761296517-1-pcs8ed59c2114d742b4b7056c488ffb21a8-dba77c9e61cfdd2a58c882963f1970f0&yid=pcs8ed59c2114d742b4b7056c488ffb21a8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV4.png" group-title="🇨🇳中國電視台📺",CCTV-4
-http://ygbh.site/php/bfgd.php?id=063
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV6.png" group-title="🇨🇳中國電視台📺",CCTV-6
 http://ygbh.site/php/bfgd.php?id=065
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV7.png" group-title="🇨🇳中國電視台📺",CCTV-7
@@ -171,8 +151,6 @@ http://ygbh.site/php/bfgd.php?id=066
 http://ygbh.site/php/bfgd.php?id=128
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV10.png" group-title="🇨🇳中國電視台📺",CCTV-10
 http://ygbh.site/php/bfgd.php?id=129
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV11.png" group-title="🇨🇳中國電視台📺",CCTV-11
-http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV11.png" group-title="🇨🇳中國電視台📺",CCTV-11
 http://ygbh.site/php/bfgd.php?id=130
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://iptv-org.github.io/channels/tw/CCTV12.png" group-title="🇨🇳中國電視台📺",CCTV-12
@@ -195,138 +173,68 @@ http://ygbh.site/php/bfgd.php?id=177
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://iptv-org.github.io/channels/tw/广东卫视.png" group-title="🇨🇳中國電視台📺",广东卫视
 http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://iptv-org.github.io/channels/tw/广东卫视.png" group-title="🇨🇳中國電視台📺",广东卫视
-http://ygbh.site/php/bfgd.php?id=092
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://iptv-org.github.io/channels/tw/浙江卫视.png" group-title="🇨🇳中國電視台📺",浙江卫视
-http://ygbh.site/php/bfgd.php?id=094
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/湖南卫视.png" group-title="🇨🇳中國電視台📺",湖南卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/湖南卫视.png" group-title="🇨🇳中國電視台📺",湖南卫视
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/湖南卫视.png" group-title="🇨🇳中國電視台📺",湖南卫视
-http://ygbh.site/php/bfgd.php?id=086
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://iptv-org.github.io/channels/tw/北京卫视.png" group-title="🇨🇳中國電視台📺",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://iptv-org.github.io/channels/tw/北京卫视.png" group-title="🇨🇳中國電視台📺",北京卫视
-https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://iptv-org.github.io/channels/tw/北京卫视.png" group-title="🇨🇳中國電視台📺",北京卫视
-http://ygbh.site/php/bfgd.php?id=083
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://iptv-org.github.io/channels/tw/湖北卫视.png" group-title="🇨🇳中國電視台📺",湖北卫视
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://iptv-org.github.io/channels/tw/湖北卫视.png" group-title="🇨🇳中國電視台📺",湖北卫视
-http://ygbh.site/php/bfgd.php?id=102
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://iptv-org.github.io/channels/tw/黑龙江卫视.png" group-title="🇨🇳中國電視台📺",黑龙江卫视
 http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://iptv-org.github.io/channels/tw/黑龙江卫视.png" group-title="🇨🇳中國電視台📺",黑龙江卫视
-http://ygbh.site/php/bfgd.php?id=095
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://iptv-org.github.io/channels/tw/安徽卫视.png" group-title="🇨🇳中國電視台📺",安徽卫视
 http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://iptv-org.github.io/channels/tw/安徽卫视.png" group-title="🇨🇳中國電視台📺",安徽卫视
-http://ygbh.site/php/bfgd.php?id=096
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://iptv-org.github.io/channels/tw/重庆卫视.png" group-title="🇨🇳中國電視台📺",重庆卫视
 http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://iptv-org.github.io/channels/tw/重庆卫视.png" group-title="🇨🇳中國電視台📺",重庆卫视
-http://ygbh.site/php/bfgd.php?id=107
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://iptv-org.github.io/channels/tw/东方卫视.png" group-title="🇨🇳中國電視台📺",东方卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://iptv-org.github.io/channels/tw/东方卫视.png" group-title="🇨🇳中國電視台📺",东方卫视
-http://ygbh.site/php/bfgd.php?id=093
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/东南卫视.png" group-title="🇨🇳中國電視台📺",东南卫视
 http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/东南卫视.png" group-title="🇨🇳中國電視台📺",东南卫视
-http://ygbh.site/php/bfgd.php?id=483
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://iptv-org.github.io/channels/tw/甘肃卫视.png" group-title="🇨🇳中國電視台📺",甘肃卫视
 http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://iptv-org.github.io/channels/tw/甘肃卫视.png" group-title="🇨🇳中國電視台📺",甘肃卫视
-http://ygbh.site/php/bfgd.php?id=119
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://iptv-org.github.io/channels/tw/广西卫视.png" group-title="🇨🇳中國電視台📺",广西卫视
-http://ygbh.site/php/bfgd.php?id=116
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://iptv-org.github.io/channels/tw/贵州卫视.png" group-title="🇨🇳中國電視台📺",贵州卫视
 http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://iptv-org.github.io/channels/tw/贵州卫视.png" group-title="🇨🇳中國電視台📺",贵州卫视
-http://ygbh.site/php/bfgd.php?id=101
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/海南卫视.png" group-title="🇨🇳中國電視台📺",海南卫视
 http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/海南卫视.png" group-title="🇨🇳中國電視台📺",海南卫视
-http://ygbh.site/php/bfgd.php?id=473
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://iptv-org.github.io/channels/tw/河北卫视.png" group-title="🇨🇳中國電視台📺",河北卫视
 http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://iptv-org.github.io/channels/tw/河北卫视.png" group-title="🇨🇳中國電視台📺",河北卫视
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6178&tk=23a9aca1f79f
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://iptv-org.github.io/channels/tw/河北卫视.png" group-title="🇨🇳中國電視台📺",河北卫视
-http://ygbh.site/php/bfgd.php?id=108
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
 http://lxajh.top/tv/hn.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
 http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6209&tk=23a9aca1f79f
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
-http://ygbh.site/php/bfgd.php?id=104
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://iptv-org.github.io/channels/tw/吉林卫视.png" group-title="🇨🇳中國電視台📺",吉林卫视
 http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://iptv-org.github.io/channels/tw/吉林卫视.png" group-title="🇨🇳中國電視台📺",吉林卫视
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3028&tk=23a9aca1f79f
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://iptv-org.github.io/channels/tw/吉林卫视.png" group-title="🇨🇳中國電視台📺",吉林卫视
-http://ygbh.site/php/bfgd.php?id=097
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://iptv-org.github.io/channels/tw/江苏卫视.png" group-title="🇨🇳中國電視台📺",江苏卫视
 http://ygbh.site/php/bfgd.php?id=085
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://iptv-org.github.io/channels/tw/江西卫视.png" group-title="🇨🇳中國電視台📺",江西卫视
 http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://iptv-org.github.io/channels/tw/江西卫视.png" group-title="🇨🇳中國電視台📺",江西卫视
-http://ygbh.site/php/bfgd.php?id=098
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://iptv-org.github.io/channels/tw/辽宁卫视.png" group-title="🇨🇳中國電視台📺",辽宁卫视
 http://ygbh.site/php/bfgd.php?id=058
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://iptv-org.github.io/channels/tw/内蒙古卫视.png" group-title="🇨🇳中國電視台📺",内蒙古卫视
 http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://iptv-org.github.io/channels/tw/内蒙古卫视.png" group-title="🇨🇳中國電視台📺",内蒙古卫视
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1348&tk=23a9aca1f79f
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://iptv-org.github.io/channels/tw/内蒙古卫视.png" group-title="🇨🇳中國電視台📺",内蒙古卫视
-http://ygbh.site/php/bfgd.php?id=110
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://iptv-org.github.io/channels/tw/宁夏卫视.png" group-title="🇨🇳中國電視台📺",宁夏卫视
 http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://iptv-org.github.io/channels/tw/宁夏卫视.png" group-title="🇨🇳中國電視台📺",宁夏卫视
-http://ygbh.site/php/bfgd.php?id=118
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://iptv-org.github.io/channels/tw/青海卫视.png" group-title="🇨🇳中國電視台📺",青海卫视
 http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://iptv-org.github.io/channels/tw/青海卫视.png" group-title="🇨🇳中國電視台📺",青海卫视
-http://ygbh.site/php/bfgd.php?id=111
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://iptv-org.github.io/channels/tw/山东卫视.png" group-title="🇨🇳中國電視台📺",山东卫视
 http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://iptv-org.github.io/channels/tw/山东卫视.png" group-title="🇨🇳中國電視台📺",山东卫视
-http://ygbh.site/php/bfgd.php?id=099
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://iptv-org.github.io/channels/tw/山西卫视.png" group-title="🇨🇳中國電視台📺",山西卫视
 http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://iptv-org.github.io/channels/tw/山西卫视.png" group-title="🇨🇳中國電視台📺",山西卫视
-http://ygbh.site/php/bfgd.php?id=109
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://iptv-org.github.io/channels/tw/陕西卫视.png" group-title="🇨🇳中國電視台📺",陕西卫视
 http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://iptv-org.github.io/channels/tw/陕西卫视.png" group-title="🇨🇳中國電視台📺",陕西卫视
-http://ygbh.site/php/bfgd.php?id=114
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://iptv-org.github.io/channels/tw/四川卫视.png" group-title="🇨🇳中國電視台📺",四川卫视
 http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://iptv-org.github.io/channels/tw/四川卫视.png" group-title="🇨🇳中國電視台📺",四川卫视
-http://ygbh.site/php/bfgd.php?id=103
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://iptv-org.github.io/channels/tw/深圳卫视.png" group-title="🇨🇳中國電視台📺",深圳卫视
 http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://iptv-org.github.io/channels/tw/深圳卫视.png" group-title="🇨🇳中國電視台📺",深圳卫视
-http://ygbh.site/php/bfgd.php?id=100
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://iptv-org.github.io/channels/tw/三沙卫视.png" group-title="🇨🇳中國電視台📺",三沙卫视
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0161&tk=f6cc1e0a0e1a
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://iptv-org.github.io/channels/tw/天津卫视.png" group-title="🇨🇳中國電視台📺",天津卫视
 http://ygbh.site/php/bfgd.php?id=084
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://iptv-org.github.io/channels/tw/西藏卫视.png" group-title="🇨🇳中國電視台📺",西藏卫视
 http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://iptv-org.github.io/channels/tw/西藏卫视.png" group-title="🇨🇳中國電視台📺",西藏卫视
-http://ygbh.site/php/bfgd.php?id=121
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://iptv-org.github.io/channels/tw/新疆卫视.png" group-title="🇨🇳中國電視台📺",新疆卫视
 http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://iptv-org.github.io/channels/tw/新疆卫视.png" group-title="🇨🇳中國電視台📺",新疆卫视
-http://ygbh.site/php/bfgd.php?id=150
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/云南卫视.png" group-title="🇨🇳中國電視台📺",云南卫视
 http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/云南卫视.png" group-title="🇨🇳中國電視台📺",云南卫视
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2067&tk=23a9aca1f79f
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://iptv-org.github.io/channels/tw/云南卫视.png" group-title="🇨🇳中國電視台📺",云南卫视
-http://ygbh.site/php/bfgd.php?id=115
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://iptv-org.github.io/channels/tw/北京新闻.png" group-title="🇨🇳中國電視台📺",北京新闻
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://iptv-org.github.io/channels/tw/上海第一财经.png" group-title="🇨🇳中國電視台📺",上海第一财经
@@ -339,8 +247,6 @@ http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4810&tk=23a9aca1f79f
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://iptv-org.github.io/channels/tw/都市剧场.png" group-title="🇨🇳中國電視台📺",都市剧场
 https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="万州综合" tvg-logo="https://iptv-org.github.io/channels/tw/万州综合.png" group-title="🇨🇳中國電視台📺",万州综合
-http://live.xmcdn.com/live/1678/64.m3u8
 #EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://iptv-org.github.io/channels/tw/宜兴新闻.png" group-title="🇨🇳中國電視台📺",宜兴新闻
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 #EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://iptv-org.github.io/channels/tw/宜兴新闻.png" group-title="🇨🇳中國電視台📺",宜兴新闻
@@ -357,40 +263,20 @@ rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 #EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="https://iptv-org.github.io/channels/tw/溧水新闻综合.png" group-title="🇨🇳中國電視台📺",溧水新闻综合
 https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
-#EXTINF:-1 tvg-name="睢宁综合" tvg-logo="https://iptv-org.github.io/channels/tw/睢宁综合.png" group-title="🇨🇳中國電視台📺",睢宁综合
-https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://iptv-org.github.io/channels/tw/苏州文化生活.png" group-title="🇨🇳中國電視台📺",苏州文化生活
-https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-#EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="https://iptv-org.github.io/channels/tw/苏州新闻综合.png" group-title="🇨🇳中國電視台📺",苏州新闻综合
-https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://iptv-org.github.io/channels/tw/苏州生活资讯.png" group-title="🇨🇳中國電視台📺",苏州生活资讯
-https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-#EXTINF:-1 tvg-name="苏州社会经济" tvg-logo="https://iptv-org.github.io/channels/tw/苏州社会经济.png" group-title="🇨🇳中國電視台📺",苏州社会经济
-https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 #EXTINF:-1 tvg-name="赣榆新闻综合" tvg-logo="https://iptv-org.github.io/channels/tw/赣榆新闻综合.png" group-title="🇨🇳中國電視台📺",赣榆新闻综合
 rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://iptv-org.github.io/channels/tw/辽宁影视剧.png" group-title="🇨🇳中國電視台📺",辽宁影视剧
 http://ygbh.site/php/bfgd.php?id=070
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://iptv-org.github.io/channels/tw/辽宁教育青少.png" group-title="🇨🇳中國電視台📺",辽宁教育青少
 http://ygbh.site/php/bfgd.php?id=075
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://iptv-org.github.io/channels/tw/湖南经视.png" group-title="🇨🇳中國電視台📺",湖南经视
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1hNzZhZTVmZTEwYzA3NTBiMWMwZDZiMzA1MzJkZDBkNSZ1aWQ9JnV1aWQ9NmUwZDFmMDM5N2ZkMTI2ZmQzYTAzOTlhOGU1YTVmNzAtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTI1NjgyMA,,/HNJSMPP360.m3u8
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://iptv-org.github.io/channels/tw/湖南电视剧.png" group-title="🇨🇳中國電視台📺",湖南电视剧
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1jNmU3YTU5ZjIxMTYzNDQ0MzM2NTJjZDFhYjhlNjA1MCZ1aWQ9JnV1aWQ9N2YzOTI3YzJhZTlmN2M2ODQ0MzMxY2E1YWQ5ODYwZDgtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTI0NTY1NA,,/HNDSJMPP360.m3u8
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://iptv-org.github.io/channels/tw/湖南电影.png" group-title="🇨🇳中國電視台📺",湖南电影
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3631&tk=23a9aca1f79f
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://iptv-org.github.io/channels/tw/湖南爱晚.png" group-title="🇨🇳中國電視台📺",湖南爱晚
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz04YjQwZjFhY2QzOWFjNzZmMjAxZTJmYjVlMDZiZjhmZSZ1aWQ9JnV1aWQ9YTBlNjE2NjMxOGY1ZjgxYjcyNTg1MWQ0OWJjMGJmOTYtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTI2MzkwMA,,/HNGGMPP360.m3u8
-#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://iptv-org.github.io/channels/tw/长沙政法.png" group-title="🇨🇳中國電視台📺",长沙政法
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/CSZFMPP360.m3u8
-#EXTINF:-1 tvg-name="津南一套" tvg-logo="https://iptv-org.github.io/channels/tw/津南一套.png" group-title="🇨🇳中國電視台📺",津南一套
-http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://iptv-org.github.io/channels/tw/福建新闻.png" group-title="🇨🇳中國電視台📺",福建新闻
 http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://iptv-org.github.io/channels/tw/福建经济.png" group-title="🇨🇳中國電視台📺",福建经济
 http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://iptv-org.github.io/channels/tw/海南新闻.png" group-title="🇨🇳中國電視台📺",海南新闻
 http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="石家庄娱乐" tvg-logo="https://iptv-org.github.io/channels/tw/石家庄娱乐.png" group-title="🇨🇳中國電視台📺",石家庄娱乐
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0948&tk=97475bb89d45
 #EXTINF:-1 tvg-name="甘肃经济" tvg-logo="https://iptv-org.github.io/channels/tw/甘肃经济.png" group-title="🇨🇳中國電視台📺",甘肃经济
 https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 #EXTINF:-1 tvg-name="甘肃都市" tvg-logo="https://iptv-org.github.io/channels/tw/甘肃都市.png" group-title="🇨🇳中國電視台📺",甘肃都市
@@ -403,11 +289,7 @@ https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://iptv-org.github.io/channels/tw/延边卫视.png" group-title="🇨🇳中國電視台📺",延边卫视
 http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://iptv-org.github.io/channels/tw/延边卫视.png" group-title="🇨🇳中國電視台📺",延边卫视
-http://ygbh.site/php/bfgd.php?id=117
 #EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://iptv-org.github.io/channels/tw/吉林乡村.png" group-title="🇨🇳中國電視台📺",吉林乡村
 https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://iptv-org.github.io/channels/tw/黑龙江少儿.png" group-title="🇨🇳中國電視台📺",黑龙江少儿
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0219&tk=e640d0a1bf70
-#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://iptv-org.github.io/channels/tw/民視第一台.png" group-title="🕘️更新时间",2025-10-24 02:19:11
+#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://iptv-org.github.io/channels/tw/民視第一台.png" group-title="🕘️更新时间",2025-10-24 06:18:12
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
