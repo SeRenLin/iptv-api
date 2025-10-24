@@ -1,31 +1,81 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/alansoon/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/中天新聞台.png" group-title="🇹🇼台灣頻道",中天新聞台
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视新闻.png" group-title="🇹🇼台灣頻道",民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/中视新闻.png" group-title="🇹🇼台灣頻道",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/中天新闻.png" group-title="🇹🇼台灣頻道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/中天新聞台.png" group-title="🇹🇼台灣頻道",中天新聞台
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/中天新闻.png" group-title="🇹🇼台灣頻道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-#EXTINF:-1 tvg-name="華視" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/華視.png" group-title="🇹🇼台灣頻道",華視
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/华视.png" group-title="🇹🇼台灣頻道",华视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-name="博斯網球台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/博斯網球台.png" group-title="🇹🇼台灣頻道",博斯網球台
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天戏剧.png" group-title="🇹🇼台灣頻道",靖天戏剧
+http://pullpackage.alivecdn.com/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBry6iYBSe.flv
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天映画.png" group-title="🇹🇼台灣頻道",靖天映画
+http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
+#EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天资讯.png" group-title="🇹🇼台灣頻道",靖天资讯
+http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/寰宇新闻.png" group-title="🇹🇼台灣頻道",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻台湾" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/寰宇新闻台湾.png" group-title="🇹🇼台灣頻道",寰宇新闻台湾
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-name="三立INEWS" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/三立INEWS.png" group-title="🇹🇼台灣頻道",三立INEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 tvg-name="三立INEWS" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/三立INEWS.png" group-title="🇹🇼台灣頻道",三立INEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/台视新闻.png" group-title="🇹🇼台灣頻道",台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/博斯无限.png" group-title="🇹🇼台灣頻道",博斯无限
+http://pullpackage.alivecdn.com/live/TCD7pgTmDrjoVbmKVzddBzotStrXuppbuDp6ZH4Vg1Px3le2Nf.flv
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/博斯网球.png" group-title="🇹🇼台灣頻道",博斯网球
 http://pullpackage.alivecdn.com/live/8zU0swMFiNzCmM4UR8nGnBHBzyR2zddBzos3DpAMBFw541akw1.flv
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/东森财经.png" group-title="🇹🇼台灣頻道",东森财经
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/东森洋片.png" group-title="🇹🇼台灣頻道",东森洋片
+http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 #EXTINF:-1 tvg-name="智林體育" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/智林體育.png" group-title="🇹🇼台灣頻道",智林體育
 http://pullpackage.alivecdn.com/live/vceGKKHBVezUhHvWcKcCeOWAUWi8tOzBbsJgqOKJCiPyqpiBpE.flv
-#EXTINF:-1 tvg-name="MOMO 1台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/MOMO 1台.png" group-title="🇹🇼台灣頻道",MOMO 1台
+#EXTINF:-1 tvg-name="华艺MBC综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/华艺MBC综合.png" group-title="🇹🇼台灣頻道",华艺MBC综合
+http://pullpackage.alivecdn.com/live/JNFujWQCFcYCBU2iOu2XAyb3mbuNNsJgqOHJRuFYfN3ccgIZrS.flv
+#EXTINF:-1 tvg-name="MOMO1台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/MOMO1台.png" group-title="🇹🇼台灣頻道",MOMO1台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 tvg-name="MOMO 2台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/MOMO 2台.png" group-title="🇹🇼台灣頻道",MOMO 2台
+#EXTINF:-1 tvg-name="MOMO2台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/MOMO2台.png" group-title="🇹🇼台灣頻道",MOMO2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 #EXTINF:-1 tvg-name="Global News" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/Global News.png" group-title="🇹🇼台灣頻道",Global News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-name="大爱2" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/大爱2.png" group-title="🇹🇼台灣頻道",大爱2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 tvg-name="国会频道1" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/国会频道1.png" group-title="🇹🇼台灣頻道",国会频道1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1 tvg-name="国会频道2" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/国会频道2.png" group-title="🇹🇼台灣頻道",国会频道2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 #EXTINF:-1 tvg-name="智林體育台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/智林體育台.png" group-title="🇹🇼台灣頻道",智林體育台
 http://pullpackage.alivecdn.com/live/vceGKKHBVezUhHvWcKcCeOWAUWi8tOzBbsJgqOKJCiPyqpiBpE.flv
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/凤凰中文.png" group-title="🇭🇰港·澳🌊",凤凰中文
+#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/ELTA娱乐.png" group-title="🇹🇼台灣頻道",ELTA娱乐
+http://pullpackage.alivecdn.com/live/LCsWIoNQxJHPuEfJnj40Szok25ACdgu47VKY8bsJgqOiB0Cp49.flv
+#EXTINF:-1 tvg-name="ELTA影剧" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/ELTA影剧.png" group-title="🇹🇼台灣頻道",ELTA影剧
+http://pullpackage.alivecdn.com/live/0wMCxCM1oSG6URf0N4REZ8mppQsZ7yp5sJgqO7DB1aSWOZqkmg.flv
+#EXTINF:-1 tvg-name="ELTA综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/ELTA综合.png" group-title="🇹🇼台灣頻道",ELTA综合
+http://pullpackage.alivecdn.com/live/0WZkF5aXiP9zuzNrbyrESsIkaqfL0hkGpJsJgqOqFQ7poRQYW7.flv
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBO.png" group-title="🇹🇼台灣頻道",HBO
+http://pullpackage.alivecdn.com/live/GfPVn0eDChnsJgqOmsvZeKXYTNMgH8clNLUesg4VlSCLjkEICb.flv
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBO.png" group-title="🇹🇼台灣頻道",HBO
+http://pullpackage.alivecdn.com/live/kD0Grg6PTqpktGbHEewF1IdNYdXaPI9sJgqO1w3b1CVXRYc9nQ.flv
+#EXTINF:-1 tvg-name="HBO温馨家庭" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBO温馨家庭.png" group-title="🇹🇼台灣頻道",HBO温馨家庭
+http://pullpackage.alivecdn.com/live/Tqdug9EazZEp4bxePek6dFIsFOg7sJgqOd6vJQvmCg2ibF3W0Z.flv
+#EXTINF:-1 tvg-name="HBOHD" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBOHD.png" group-title="🇹🇼台灣頻道",HBOHD
+http://pullpackage.alivecdn.com/live/GfPVn0eDChnsJgqOmsvZeKXYTNMgH8clNLUesg4VlSCLjkEICb.flv
+#EXTINF:-1 tvg-name="HBOHD" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBOHD.png" group-title="🇹🇼台灣頻道",HBOHD
+http://pullpackage.alivecdn.com/live/kD0Grg6PTqpktGbHEewF1IdNYdXaPI9sJgqO1w3b1CVXRYc9nQ.flv
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/凤凰中文.png" group-title="🌊港·澳",凤凰中文
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/凤凰中文.png" group-title="🇭🇰港·澳🌊",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/凤凰中文.png" group-title="🌊港·澳",凤凰中文
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/凤凰资讯.png" group-title="🇭🇰港·澳🌊",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/凤凰资讯.png" group-title="🌊港·澳",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/香港卫视.png" group-title="🇭🇰港·澳🌊",香港卫视
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/香港卫视.png" group-title="🌊港·澳",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="Now剧集" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/Now剧集.png" group-title="🇭🇰港·澳🌊",Now剧集
+#EXTINF:-1 tvg-name="Now剧集" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/Now剧集.png" group-title="🌊港·澳",Now剧集
 http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/淘剧场.png" group-title="🎬电影频道",淘剧场
 http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
@@ -35,285 +85,5 @@ http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8
 http://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
 http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/CCTV4.png" group-title="🇨🇳中國電視台📺",CCTV-4
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/香港卫视.png" group-title="🇨🇳中國電視台📺",香港卫视
-http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/广西卫视.png" group-title="🇨🇳中國電視台📺",广西卫视
-https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/广西卫视.png" group-title="🇨🇳中國電視台📺",广西卫视
-https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/广西卫视.png" group-title="🇨🇳中國電視台📺",广西卫视
-https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
-http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9b8afb6c5ee17928d29e4dffc00d787a&wsTime=1761255986
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ccbaee5e41f6891431663537e5f2ed72&wsTime=1761289508
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d7a229de4844d978851128d968e6f4f3&wsTime=1761293138
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=dd3b8cacb03a21a428682762abcba7fc&wsTime=1761311496
-#EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/浙江生活.png" group-title="🇨🇳中國電視台📺",浙江生活
-http://ls.qingting.fm/live/1099.m3u8
-#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/浙江经济生活.png" group-title="🇨🇳中國電視台📺",浙江经济生活
-http://ls.qingting.fm/live/1099.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/北京新闻.png" group-title="🇨🇳中國電視台📺",北京新闻
-https://ls.qingting.fm/live/339/64k.m3u8
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/第一财经.png" group-title="🇨🇳中國電視台📺",第一财经
-http://ls.qingting.fm/live/276.m3u8
-#EXTINF:-1 tvg-name="靖江新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖江新闻综合.png" group-title="🇨🇳中國電視台📺",靖江新闻综合
-http://ls.qingting.fm/live/23797.m3u8
-#EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/辽宁都市.png" group-title="🇨🇳中國電視台📺",辽宁都市
-https://ls.qingting.fm/live/1099/64k.m3u8
-#EXTINF:-1 tvg-name="长沙新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/长沙新闻综合.png" group-title="🇨🇳中國電視台📺",长沙新闻综合
-http://ls.qingting.fm/live/4877.m3u8
-#EXTINF:-1 tvg-name="武汉一台新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/武汉一台新闻综合.png" group-title="🇨🇳中國電視台📺",武汉一台新闻综合
-https://ls.qingting.fm/live/20198/64k.m3u8
-#EXTINF:-1 tvg-name="北海经济科教" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/北海经济科教.png" group-title="🇨🇳中國電視台📺",北海经济科教
-https://play-a2.quklive.com:443/live/1727311690820146.m3u8
-#EXTINF:-1 tvg-name="灌阳新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/灌阳新闻综合.png" group-title="🇨🇳中國電視台📺",灌阳新闻综合
-https://ls.qingting.fm/live/5043/64k.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/广西新闻.png" group-title="🇨🇳中國電視台📺",广西新闻
-https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
-#EXTINF:-1 tvg-name="广西国际" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/广西国际.png" group-title="🇨🇳中國電視台📺",广西国际
-https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-#EXTINF:-1 tvg-name="广西国际" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/广西国际.png" group-title="🇨🇳中國電視台📺",广西国际
-http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
-#EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/陕西公共.png" group-title="🇨🇳中國電視台📺",陕西公共
-http://ls.qingting.fm/live/1222.m3u8
-#EXTINF:-1 tvg-name="三明新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/三明新闻综合.png" group-title="🇨🇳中國電視台📺",三明新闻综合
-http://ls.qingting.fm/live/4885.m3u8
-#EXTINF:-1 tvg-name="三明新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/三明新闻综合.png" group-title="🇨🇳中國電視台📺",三明新闻综合
-https://ls.qingting.fm/live/5022100/64k.m3u8
-#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/海南新闻.png" group-title="🇨🇳中國電視台📺",海南新闻
-http://ls.qingting.fm/live/1861.m3u8
-#EXTINF:-1 tvg-name="临颍综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/临颍综合.png" group-title="🇨🇳中國電視台📺",临颍综合
-http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="义马新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/义马新闻综合.png" group-title="🇨🇳中國電視台📺",义马新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="光山综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/光山综合.png" group-title="🇨🇳中國電視台📺",光山综合
-http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="光山综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/光山综合.png" group-title="🇨🇳中國電視台📺",光山综合
-http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
-#EXTINF:-1 tvg-name="兰考新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/兰考新闻.png" group-title="🇨🇳中國電視台📺",兰考新闻
-http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="兰考新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/兰考新闻.png" group-title="🇨🇳中國電視台📺",兰考新闻
-http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-#EXTINF:-1 tvg-name="卫辉综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/卫辉综合.png" group-title="🇨🇳中國電視台📺",卫辉综合
-http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="卫辉综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/卫辉综合.png" group-title="🇨🇳中國電視台📺",卫辉综合
-http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
-#EXTINF:-1 tvg-name="卫辉综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/卫辉综合.png" group-title="🇨🇳中國電視台📺",卫辉综合
-http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend
-#EXTINF:-1 tvg-name="叶县" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/叶县.png" group-title="🇨🇳中國電視台📺",叶县
-http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8#
-#EXTINF:-1 tvg-name="叶县" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/叶县.png" group-title="🇨🇳中國電視台📺",叶县
-http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-#EXTINF:-1 tvg-name="唐河一套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/唐河一套.png" group-title="🇨🇳中國電視台📺",唐河一套
-http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend#http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
-#EXTINF:-1 tvg-name="唐河一套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/唐河一套.png" group-title="🇨🇳中國電視台📺",唐河一套
-http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend
-#EXTINF:-1 tvg-name="唐河一套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/唐河一套.png" group-title="🇨🇳中國電視台📺",唐河一套
-http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
-#EXTINF:-1 tvg-name="固始综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/固始综合.png" group-title="🇨🇳中國電視台📺",固始综合
-http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="固始综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/固始综合.png" group-title="🇨🇳中國電視台📺",固始综合
-http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
-#EXTINF:-1 tvg-name="宝丰综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宝丰综合.png" group-title="🇨🇳中國電視台📺",宝丰综合
-http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="宝丰综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宝丰综合.png" group-title="🇨🇳中國電視台📺",宝丰综合
-http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
-#EXTINF:-1 tvg-name="宝丰综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宝丰综合.png" group-title="🇨🇳中國電視台📺",宝丰综合
-http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
-#EXTINF:-1 tvg-name="巩义新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/巩义新闻综合.png" group-title="🇨🇳中國電視台📺",巩义新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend?
-#EXTINF:-1 tvg-name="巩义新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/巩义新闻综合.png" group-title="🇨🇳中國電視台📺",巩义新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
-#EXTINF:-1 tvg-name="巩义新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/巩义新闻综合.png" group-title="🇨🇳中國電視台📺",巩义新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
-#EXTINF:-1 tvg-name="扶沟综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/扶沟综合.png" group-title="🇨🇳中國電視台📺",扶沟综合
-http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="扶沟综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/扶沟综合.png" group-title="🇨🇳中國電視台📺",扶沟综合
-http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
-#EXTINF:-1 tvg-name="扶沟综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/扶沟综合.png" group-title="🇨🇳中國電視台📺",扶沟综合
-http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
-#EXTINF:-1 tvg-name="新乡县电视台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新乡县电视台.png" group-title="🇨🇳中國電視台📺",新乡县电视台
-http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="新县综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新县综合.png" group-title="🇨🇳中國電視台📺",新县综合
-http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="新县综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新县综合.png" group-title="🇨🇳中國電視台📺",新县综合
-http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-#EXTINF:-1 tvg-name="新蔡综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新蔡综合.png" group-title="🇨🇳中國電視台📺",新蔡综合
-http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="新蔡综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新蔡综合.png" group-title="🇨🇳中國電視台📺",新蔡综合
-http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
-#EXTINF:-1 tvg-name="新蔡综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新蔡综合.png" group-title="🇨🇳中國電視台📺",新蔡综合
-http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend
-#EXTINF:-1 tvg-name="桐柏新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/桐柏新闻综合.png" group-title="🇨🇳中國電視台📺",桐柏新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
-#EXTINF:-1 tvg-name="泌阳新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/泌阳新闻综合.png" group-title="🇨🇳中國電視台📺",泌阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/渑池新闻综合.png" group-title="🇨🇳中國電視台📺",渑池新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="温县综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/温县综合.png" group-title="🇨🇳中國電視台📺",温县综合
-http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend?
-#EXTINF:-1 tvg-name="温县综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/温县综合.png" group-title="🇨🇳中國電視台📺",温县综合
-http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
-#EXTINF:-1 tvg-name="温县综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/温县综合.png" group-title="🇨🇳中國電視台📺",温县综合
-http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
-#EXTINF:-1 tvg-name="潢川综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/潢川综合.png" group-title="🇨🇳中國電視台📺",潢川综合
-http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="潢川综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/潢川综合.png" group-title="🇨🇳中國電視台📺",潢川综合
-http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-#EXTINF:-1 tvg-name="登封综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/登封综合.png" group-title="🇨🇳中國電視台📺",登封综合
-http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="登封综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/登封综合.png" group-title="🇨🇳中國電視台📺",登封综合
-http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-#EXTINF:-1 tvg-name="禹州综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/禹州综合.png" group-title="🇨🇳中國電視台📺",禹州综合
-http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="西华综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/西华综合.png" group-title="🇨🇳中國電視台📺",西华综合
-http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="西华综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/西华综合.png" group-title="🇨🇳中國電視台📺",西华综合
-http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?zhend
-#EXTINF:-1 tvg-name="西华综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/西华综合.png" group-title="🇨🇳中國電視台📺",西华综合
-http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
-#EXTINF:-1 tvg-name="郏县综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/郏县综合.png" group-title="🇨🇳中國電視台📺",郏县综合
-http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="郏县综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/郏县综合.png" group-title="🇨🇳中國電視台📺",郏县综合
-http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
-#EXTINF:-1 tvg-name="郏县综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/郏县综合.png" group-title="🇨🇳中國電視台📺",郏县综合
-http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
-#EXTINF:-1 tvg-name="郸城新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/郸城新闻综合.png" group-title="🇨🇳中國電視台📺",郸城新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
-#EXTINF:-1 tvg-name="郸城新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/郸城新闻综合.png" group-title="🇨🇳中國電視台📺",郸城新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
-#EXTINF:-1 tvg-name="郸城新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/郸城新闻综合.png" group-title="🇨🇳中國電視台📺",郸城新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
-#EXTINF:-1 tvg-name="鄢陵综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/鄢陵综合.png" group-title="🇨🇳中國電視台📺",鄢陵综合
-http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="鄢陵综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/鄢陵综合.png" group-title="🇨🇳中國電視台📺",鄢陵综合
-http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-#EXTINF:-1 tvg-name="项城新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/项城新闻.png" group-title="🇨🇳中國電視台📺",项城新闻
-http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8#@http://live.dxhmt.cn:9081/tv/11681-1.m3u8#@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
-#EXTINF:-1 tvg-name="项城新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/项城新闻.png" group-title="🇨🇳中國電視台📺",项城新闻
-http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-#EXTINF:-1 tvg-name="邓州新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/邓州新闻.png" group-title="🇨🇳中國電視台📺",邓州新闻
-http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="荥阳综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/荥阳综合.png" group-title="🇨🇳中國電視台📺",荥阳综合
-http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
-#EXTINF:-1 tvg-name="荥阳综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/荥阳综合.png" group-title="🇨🇳中國電視台📺",荥阳综合
-http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
-#EXTINF:-1 tvg-name="荥阳综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/荥阳综合.png" group-title="🇨🇳中國電視台📺",荥阳综合
-http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
-#EXTINF:-1 tvg-name="禹州公共" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/禹州公共.png" group-title="🇨🇳中國電視台📺",禹州公共
-http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
-#EXTINF:-1 tvg-name="灵宝新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/灵宝新闻综合.png" group-title="🇨🇳中國電視台📺",灵宝新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
-#EXTINF:-1 tvg-name="滑县新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/滑县新闻.png" group-title="🇨🇳中國電視台📺",滑县新闻
-http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="济源电视一套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/济源电视一套.png" group-title="🇨🇳中國電視台📺",济源电视一套
-http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
-#EXTINF:-1 tvg-name="济源电视一套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/济源电视一套.png" group-title="🇨🇳中國電視台📺",济源电视一套
-http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-#EXTINF:-1 tvg-name="洛阳综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/洛阳综合.png" group-title="🇨🇳中國電視台📺",洛阳综合
-https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
-#EXTINF:-1 tvg-name="洛阳科教" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/洛阳科教.png" group-title="🇨🇳中國電視台📺",洛阳科教
-https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
-#EXTINF:-1 tvg-name="洛阳文旅" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/洛阳文旅.png" group-title="🇨🇳中國電視台📺",洛阳文旅
-https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
-#EXTINF:-1 tvg-name="沁阳新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/沁阳新闻综合.png" group-title="🇨🇳中國電視台📺",沁阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
-#EXTINF:-1 tvg-name="永城综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/永城综合.png" group-title="🇨🇳中國電視台📺",永城综合
-http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
-#EXTINF:-1 tvg-name="方城一套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/方城一套.png" group-title="🇨🇳中國電視台📺",方城一套
-http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
-#EXTINF:-1 tvg-name="方城一套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/方城一套.png" group-title="🇨🇳中國電視台📺",方城一套
-http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
-#EXTINF:-1 tvg-name="新野综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新野综合.png" group-title="🇨🇳中國電視台📺",新野综合
-http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?
-#EXTINF:-1 tvg-name="新野综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新野综合.png" group-title="🇨🇳中國電視台📺",新野综合
-http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
-#EXTINF:-1 tvg-name="新安新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新安新闻综合.png" group-title="🇨🇳中國電視台📺",新安新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="新安新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新安新闻综合.png" group-title="🇨🇳中國電視台📺",新安新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
-#EXTINF:-1 tvg-name="新安新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/新安新闻综合.png" group-title="🇨🇳中國電視台📺",新安新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?zhend
-#EXTINF:-1 tvg-name="开封新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/开封新闻综合.png" group-title="🇨🇳中國電視台📺",开封新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
-#EXTINF:-1 tvg-name="开封文化旅游" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/开封文化旅游.png" group-title="🇨🇳中國電視台📺",开封文化旅游
-http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend,
-#EXTINF:-1 tvg-name="开封文化旅游" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/开封文化旅游.png" group-title="🇨🇳中國電視台📺",开封文化旅游
-http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend
-#EXTINF:-1 tvg-name="开封文化旅游" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/开封文化旅游.png" group-title="🇨🇳中國電視台📺",开封文化旅游
-http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-#EXTINF:-1 tvg-name="嵩县综合新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/嵩县综合新闻.png" group-title="🇨🇳中國電視台📺",嵩县综合新闻
-http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhendhttp://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
-#EXTINF:-1 tvg-name="宜阳综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宜阳综合.png" group-title="🇨🇳中國電視台📺",宜阳综合
-http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
-#EXTINF:-1 tvg-name="宜阳综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宜阳综合.png" group-title="🇨🇳中國電視台📺",宜阳综合
-http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
-#EXTINF:-1 tvg-name="宜阳综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宜阳综合.png" group-title="🇨🇳中國電視台📺",宜阳综合
-http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
-#EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/内黄综合.png" group-title="🇨🇳中國電視台📺",内黄综合
-http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
-#EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/内黄综合.png" group-title="🇨🇳中國電視台📺",内黄综合
-http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
-#EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/内黄综合.png" group-title="🇨🇳中國電視台📺",内黄综合
-http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1 tvg-name="内乡综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/内乡综合.png" group-title="🇨🇳中國電視台📺",内乡综合
-http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="偃师新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/偃师新闻.png" group-title="🇨🇳中國電視台📺",偃师新闻
-http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
-#EXTINF:-1 tvg-name="衡水公共" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/衡水公共.png" group-title="🇨🇳中國電視台📺",衡水公共
-http://ls.qingting.fm/live/2810.m3u8
-#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/河北农民.png" group-title="🇨🇳中國電視台📺",河北农民
-https://ls.qingting.fm/live/1650/64k.m3u8
-#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/河北农民.png" group-title="🇨🇳中國電視台📺",河北农民
-http://ls.qingting.fm/live/1650.m3u8
-#EXTINF:-1 tvg-name="安顺新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/安顺新闻.png" group-title="🇨🇳中國電視台📺",安顺新闻
-https://ls.qingting.fm/live/5022203/64k.m3u8
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/山东新闻.png" group-title="🇨🇳中國電視台📺",山东新闻
-http://ls.qingting.fm/live/60180.m3u8
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/山东生活.png" group-title="🇨🇳中國電視台📺",山东生活
-http://ls.qingting.fm/live/60260.m3u8
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/山东体育.png" group-title="🇨🇳中國電視台📺",山东体育
-http://livealone302.iqilu.com/iqilu/typd.m3u8
-#EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/临沂公共.png" group-title="🇨🇳中國電視台📺",临沂公共
-http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
-#EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/临沂公共.png" group-title="🇨🇳中國電視台📺",临沂公共
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
-#EXTINF:-1 tvg-name="临沂农科" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/临沂农科.png" group-title="🇨🇳中國電視台📺",临沂农科
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
-#EXTINF:-1 tvg-name="临沂新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/临沂新闻综合.png" group-title="🇨🇳中國電視台📺",临沂新闻综合
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
-#EXTINF:-1 tvg-name="铜陵新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/铜陵新闻综合.png" group-title="🇨🇳中國電視台📺",铜陵新闻综合
-https://ls.qingting.fm/live/21303/64k.m3u8
-#EXTINF:-1 tvg-name="祁门综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/祁门综合.png" group-title="🇨🇳中國電視台📺",祁门综合
-http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
-#EXTINF:-1 tvg-name="六安新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/六安新闻综合.png" group-title="🇨🇳中國電視台📺",六安新闻综合
-http://ls.qingting.fm/live/267.m3u8
-#EXTINF:-1 tvg-name="六安公共" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/六安公共.png" group-title="🇨🇳中國電視台📺",六安公共
-http://ls.qingting.fm/live/1794199.m3u8
-#EXTINF:-1 tvg-name="亳州新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/亳州新闻.png" group-title="🇨🇳中國電視台📺",亳州新闻
-http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
-#EXTINF:-1 tvg-name="亳州农村" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/亳州农村.png" group-title="🇨🇳中國電視台📺",亳州农村
-http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
-#EXTINF:-1 tvg-name="亳州农村" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/亳州农村.png" group-title="🇨🇳中國電視台📺",亳州农村
-http://zbbf2.ahbztv.com/live/418.m3u8
-#EXTINF:-1 tvg-name="宁夏经济" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宁夏经济.png" group-title="🇨🇳中國電視台📺",宁夏经济
-https://ls.qingting.fm/live/1841/64k.m3u8
-#EXTINF:-1 tvg-name="内蒙经济" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/内蒙经济.png" group-title="🇨🇳中國電視台📺",内蒙经济
-https://ls.qingting.fm/live/1885/64k.m3u8
-#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/内蒙古经济生活.png" group-title="🇨🇳中國電視台📺",内蒙古经济生活
-https://ls.qingting.fm/live/1885/64k.m3u8
-#EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/黑龙江新闻法治.png" group-title="🇨🇳中國電視台📺",黑龙江新闻法治
-https://ls.qingting.fm/live/4974/64k.m3u8
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/黑龙江少儿.png" group-title="🇨🇳中國電視台📺",黑龙江少儿
-https://ls.qingting.fm/live/4972/64k.m3u8
-#EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/黑龙江新闻.png" group-title="🇨🇳中國電視台📺",黑龙江新闻
-https://ls.qingting.fm/live/4974/64k.m3u8
-#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民視第一台.png" group-title="🕘️更新时间",2025-10-24 18:18:50
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-10-24 20:56:27
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
