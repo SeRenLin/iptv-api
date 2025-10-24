@@ -29,7 +29,7 @@ https://live.zbds.org/tv/iptv4.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 http://tot.totalh.net/tttt.txt
 #https://m3u.ibert.me/fmml_ipv6.m3u
-#https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u
+https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u
 #GOODTV
 https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tw.m3u 
 https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
