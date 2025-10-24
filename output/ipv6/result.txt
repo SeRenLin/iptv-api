@@ -58,4 +58,4 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-10-24 20:56:27,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+2025-10-24 22:08:26,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8

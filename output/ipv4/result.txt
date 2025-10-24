@@ -2,7 +2,6 @@
 民视第一,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
 民视电视台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
 民视电视台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
-民视新闻,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
 民视台湾,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 民视影剧,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv09
 民视旅游,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv07
@@ -10,33 +9,27 @@
 中视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
 中视经典,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
 中视菁采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv064
-中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
-华视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
 华视新闻资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
 靖天综合,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
 靖天国际,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv063
-靖天戏剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
 靖天日本,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv047
-靖天映画,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
 靖天卡通,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv044
-靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
 靖天电影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv061
 靖天欢乐,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv054
 龍華偶像台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
 靖洋戲劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
 靖洋卡通,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv057
 靖洋卡通,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv057
-寰宇新闻,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
-寰宇新闻台湾,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
 寰宇财经,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
+TVBS,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 TVBS新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 TVBS欢乐,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
 TVBS精采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 八大精彩,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 八大精彩,http://udinlaw.sytes.net:8000/scripts/4gtv/index.php?id=4gtv-4gtv034
 八大综艺,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv039
+三立财经新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 台视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
-台视新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
 博斯运动1,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
 博斯运动2,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn08
 博斯无限2,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
@@ -44,7 +37,6 @@ TVBS精采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 博斯高球2,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn06
 博斯魅力,http://tlive24.uk/livehttpplay?channel_id=42025
 东森新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
-东森财经,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
 鏡電視新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 亞洲旅遊台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
@@ -55,16 +47,12 @@ TVBS精采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 台湾戏剧,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
 達文西頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
 豬哥亮歌廳秀,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
-PET CLUB TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 第1商業台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
 Smart知識台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
 
 🌊港·澳,#genre#
-翡翠台,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎬电影频道,#genre#
@@ -79,13 +67,15 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
-游戏竞技,http://ygbh.site/php/bfgd.php?id=142
 
 🎵音乐频道,#genre#
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
 天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 水浒传,https://lunbo.freetv.top/yy/1353215589
 
 🕘️更新时间,#genre#
-2025-10-24 20:56:27,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
+2025-10-24 22:08:26,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003

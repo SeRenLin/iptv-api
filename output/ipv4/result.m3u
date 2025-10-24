@@ -5,8 +5,6 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
 #EXTINF:-1 tvg-name="民视电视台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视电视台.png" group-title="🇹🇼台灣頻道",民视电视台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视新闻.png" group-title="🇹🇼台灣頻道",民视新闻
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视台湾.png" group-title="🇹🇼台灣頻道",民视台湾
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 #EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视影剧.png" group-title="🇹🇼台灣頻道",民视影剧
@@ -21,26 +19,16 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
 #EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/中视菁采.png" group-title="🇹🇼台灣頻道",中视菁采
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv064
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/中天新闻.png" group-title="🇹🇼台灣頻道",中天新闻
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/华视.png" group-title="🇹🇼台灣頻道",华视
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
 #EXTINF:-1 tvg-name="华视新闻资讯" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/华视新闻资讯.png" group-title="🇹🇼台灣頻道",华视新闻资讯
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
 #EXTINF:-1 tvg-name="靖天综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天综合.png" group-title="🇹🇼台灣頻道",靖天综合
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天国际.png" group-title="🇹🇼台灣頻道",靖天国际
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv063
-#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天戏剧.png" group-title="🇹🇼台灣頻道",靖天戏剧
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
 #EXTINF:-1 tvg-name="靖天日本" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天日本.png" group-title="🇹🇼台灣頻道",靖天日本
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv047
-#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天映画.png" group-title="🇹🇼台灣頻道",靖天映画
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
 #EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天卡通.png" group-title="🇹🇼台灣頻道",靖天卡通
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv044
-#EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天资讯.png" group-title="🇹🇼台灣頻道",靖天资讯
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天电影.png" group-title="🇹🇼台灣頻道",靖天电影
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv061
 #EXTINF:-1 tvg-name="靖天欢乐" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖天欢乐.png" group-title="🇹🇼台灣頻道",靖天欢乐
@@ -53,12 +41,10 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv057
 #EXTINF:-1 tvg-name="靖洋卡通" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/靖洋卡通.png" group-title="🇹🇼台灣頻道",靖洋卡通
 http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv057
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/寰宇新闻.png" group-title="🇹🇼台灣頻道",寰宇新闻
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
-#EXTINF:-1 tvg-name="寰宇新闻台湾" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/寰宇新闻台湾.png" group-title="🇹🇼台灣頻道",寰宇新闻台湾
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
 #EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/寰宇财经.png" group-title="🇹🇼台灣頻道",寰宇财经
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/TVBS.png" group-title="🇹🇼台灣頻道",TVBS
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/TVBS新闻.png" group-title="🇹🇼台灣頻道",TVBS新闻
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/TVBS欢乐.png" group-title="🇹🇼台灣頻道",TVBS欢乐
@@ -71,10 +57,10 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 http://udinlaw.sytes.net:8000/scripts/4gtv/index.php?id=4gtv-4gtv034
 #EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/八大综艺.png" group-title="🇹🇼台灣頻道",八大综艺
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv039
+#EXTINF:-1 tvg-name="三立财经新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/三立财经新闻.png" group-title="🇹🇼台灣頻道",三立财经新闻
+http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/台视.png" group-title="🇹🇼台灣頻道",台视
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/台视新闻.png" group-title="🇹🇼台灣頻道",台视新闻
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
 #EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/博斯运动1.png" group-title="🇹🇼台灣頻道",博斯运动1
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
 #EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/博斯运动2.png" group-title="🇹🇼台灣頻道",博斯运动2
@@ -89,8 +75,6 @@ http://xtvantsc.xyz/litv_ts.php?id=litv-longturn06
 http://tlive24.uk/livehttpplay?channel_id=42025
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/东森新闻.png" group-title="🇹🇼台灣頻道",东森新闻
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
-#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/东森财经.png" group-title="🇹🇼台灣頻道",东森财经
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/东森超视.png" group-title="🇹🇼台灣頻道",东森超视
 rtmp://116.93.98.236/sat/tv331.flv
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/鏡電視新聞台.png" group-title="🇹🇼台灣頻道",鏡電視新聞台
@@ -111,22 +95,14 @@ http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
 #EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/豬哥亮歌廳秀.png" group-title="🇹🇼台灣頻道",豬哥亮歌廳秀
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
-#EXTINF:-1 tvg-name="PET CLUB TV" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/PET CLUB TV.png" group-title="🇹🇼台灣頻道",PET CLUB TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/第1商業台.png" group-title="🇹🇼台灣頻道",第1商業台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
 #EXTINF:-1 tvg-name="Smart知識台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/Smart知識台.png" group-title="🇹🇼台灣頻道",Smart知識台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/翡翠台.png" group-title="🌊港·澳",翡翠台
-http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/翡翠台.png" group-title="🌊港·澳",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/凤凰中文.png" group-title="🌊港·澳",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/凤凰资讯.png" group-title="🌊港·澳",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/香港卫视.png" group-title="🌊港·澳",香港卫视
-rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/Viutv.png" group-title="🌊港·澳",Viutv
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/星空卫视.png" group-title="🎬电影频道",星空卫视
@@ -139,11 +115,15 @@ http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlk
 https://lunbo.freetv.top/yy/1382735568
 #EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/游戏竞技.png" group-title="🎮游戏频道",游戏竞技
 http://ygbh.site/php/bfgd.php?id=296
-#EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/游戏竞技.png" group-title="🎮游戏频道",游戏竞技
-http://ygbh.site/php/bfgd.php?id=142
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/音乐现场.png" group-title="🎵音乐频道",音乐现场
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/音乐现场.png" group-title="🎵音乐频道",音乐现场
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="潮流音乐" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/潮流音乐.png" group-title="🎵音乐频道",潮流音乐
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/天龙八部.png" group-title="🏛经典剧场",天龙八部
 https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 #EXTINF:-1 tvg-name="水浒传" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/水浒传.png" group-title="🏛经典剧场",水浒传
 https://lunbo.freetv.top/yy/1353215589
-#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-10-24 20:56:27
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-10-24 22:08:26
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
