@@ -2,19 +2,15 @@
 中天新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-博斯網球台,http://pullpackage.alivecdn.com/live/8zU0swMFiNzCmM4UR8nGnBHBzyR2zddBzos3DpAMBFw541akw1.flv
-智林體育,http://pullpackage.alivecdn.com/live/vceGKKHBVezUhHvWcKcCeOWAUWi8tOzBbsJgqOKJCiPyqpiBpE.flv
 MOMO 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 Global News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-智林體育台,http://pullpackage.alivecdn.com/live/vceGKKHBVezUhHvWcKcCeOWAUWi8tOzBbsJgqOKJCiPyqpiBpE.flv
 
 🇭🇰港·澳🌊,#genre#
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 
 🎬电影频道,#genre#
 淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
@@ -40,14 +36,17 @@ CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9b8afb6c5ee17928d29e4dffc00d787a&wsTime=1761255986
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ccbaee5e41f6891431663537e5f2ed72&wsTime=1761289508
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
+北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 第一财经,http://ls.qingting.fm/live/276.m3u8
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
 辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
+北海经济科教,https://play-a2.quklive.com:443/live/1727311690820146.m3u8
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 广西新闻,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
@@ -171,4 +170,4 @@ CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 
 🕘️更新时间,#genre#
-2025-10-24 06:18:13,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+2025-10-24 12:01:55,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
