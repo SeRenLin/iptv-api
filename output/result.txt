@@ -9,6 +9,7 @@
 中视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
 中视经典,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
 中视菁采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv064
+中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 华视新闻资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
 靖天综合,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
 靖天国际,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv063
@@ -28,7 +29,6 @@ TVBS精采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 八大精彩,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 八大精彩,http://udinlaw.sytes.net:8000/scripts/4gtv/index.php?id=4gtv-4gtv034
 八大综艺,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv039
-三立财经新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 台视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
 博斯运动1,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
 博斯运动2,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn08
@@ -47,13 +47,12 @@ TVBS精采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 台湾戏剧,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
 達文西頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
 豬哥亮歌廳秀,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
+PET CLUB TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 第1商業台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
 Smart知識台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
 
 🌊港·澳,#genre#
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 🎬电影频道,#genre#
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
@@ -61,21 +60,14 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 🏀体育频道,#genre#
 天元围棋,http://ygbh.site/php/bfgd.php?id=144
 
-🪁动画频道,#genre#
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1jYTJhZTg5MWIyNDdjYjYyZWE2NGMxODA3MWUzNWIwNCZ1aWQ9JnV1aWQ9NzZhNGMyM2I5MDRhZGMzODEwOTk5NmY4NWNhYzg5NGUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTMxODAyNQ,,/JYKTMPP360.m3u8
-漫画解说,https://lunbo.freetv.top/yy/1382735568
-
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
+游戏竞技,http://ygbh.site/php/bfgd.php?id=142
 
 🎵音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
 天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
-水浒传,https://lunbo.freetv.top/yy/1353215589
 
 🕘️更新时间,#genre#
-2025-10-24 22:08:26,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
+2025-10-25 06:13:54,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
