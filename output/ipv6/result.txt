@@ -42,6 +42,7 @@ CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9b8afb6c5ee17928d29e4dffc00d787a&wsTime=1761255986
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ccbaee5e41f6891431663537e5f2ed72&wsTime=1761289508
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d7a229de4844d978851128d968e6f4f3&wsTime=1761293138
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=dd3b8cacb03a21a428682762abcba7fc&wsTime=1761311496
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
@@ -174,4 +175,4 @@ CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 
 🕘️更新时间,#genre#
-2025-10-24 12:53:42,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+2025-10-24 18:18:50,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8

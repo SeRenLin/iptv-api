@@ -57,6 +57,10 @@ http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4g
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
 #EXTINF:-1 tvg-name="寰宇新聞台灣台HD" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/寰宇新聞台灣台HD.png" group-title="🇹🇼台灣頻道",寰宇新聞台灣台HD
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/TVBS.png" group-title="🇹🇼台灣頻道",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/TVBS.png" group-title="🇹🇼台灣頻道",TVBS
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/TVBS新聞台.png" group-title="🇹🇼台灣頻道",TVBS新聞台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 #EXTINF:-1 tvg-name="TVBS歡樂台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/TVBS歡樂台.png" group-title="🇹🇼台灣頻道",TVBS歡樂台
@@ -109,6 +113,14 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
 #EXTINF:-1 tvg-name="Smart知識台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/Smart知識台.png" group-title="🇹🇼台灣頻道",Smart知識台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/明珠台.png" group-title="🇭🇰港·澳🌊",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/凤凰中文.png" group-title="🇭🇰港·澳🌊",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/凤凰资讯.png" group-title="🇭🇰港·澳🌊",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/Viutv.png" group-title="🇭🇰港·澳🌊",Viutv
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/星空卫视.png" group-title="🎬电影频道",星空卫视
 http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/CCTV5.png" group-title="🏀体育频道",CCTV-5
@@ -119,16 +131,18 @@ http://ygbh.site/php/bfgd.php?id=246
 http://ygbh.site/php/bfgd.php?id=144
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/卡酷动画.png" group-title="🪁动画频道",卡酷动画
 http://ygbh.site/php/bfgd.php?id=106
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1jYTJhZTg5MWIyNDdjYjYyZWE2NGMxODA3MWUzNWIwNCZ1aWQ9JnV1aWQ9NzZhNGMyM2I5MDRhZGMzODEwOTk5NmY4NWNhYzg5NGUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTMxODAyNQ,,/JYKTMPP360.m3u8
 #EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/游戏竞技.png" group-title="🎮游戏频道",游戏竞技
 http://ygbh.site/php/bfgd.php?id=296
-#EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/游戏竞技.png" group-title="🎮游戏频道",游戏竞技
-http://ygbh.site/php/bfgd.php?id=142
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://ygbh.site/php/bfgd.php?id=133
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/音乐现场.png" group-title="🎵音乐频道",音乐现场
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/音乐现场.png" group-title="🎵音乐频道",音乐现场
 http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/音乐现场.png" group-title="🎵音乐频道",音乐现场
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="潮流音乐" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/潮流音乐.png" group-title="🎵音乐频道",潮流音乐
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/天龙八部.png" group-title="🏛经典剧场",天龙八部
 https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/CCTV1.png" group-title="🇨🇳中國電視台📺",CCTV-1
@@ -171,6 +185,8 @@ https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIy
 http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/湖南卫视.png" group-title="🇨🇳中國電視台📺",湖南卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/北京卫视.png" group-title="🇨🇳中國電視台📺",北京卫视
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/北京卫视.png" group-title="🇨🇳中國電視台📺",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/湖北卫视.png" group-title="🇨🇳中國電視台📺",湖北卫视
@@ -229,6 +245,8 @@ http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/云南卫视.png" group-title="🇨🇳中國電視台📺",云南卫视
 http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/上海第一财经.png" group-title="🇨🇳中國電視台📺",上海第一财经
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/法治天地.png" group-title="🇨🇳中國電視台📺",法治天地
 http://ygbh.site/php/bfgd.php?id=162
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/第一财经.png" group-title="🇨🇳中國電視台📺",第一财经
@@ -236,9 +254,9 @@ http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/都市剧场.png" group-title="🇨🇳中國電視台📺",都市剧场
 https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宜兴新闻.png" group-title="🇨🇳中國電視台📺",宜兴新闻
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
-#EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宜兴新闻.png" group-title="🇨🇳中國電視台📺",宜兴新闻
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+#EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宜兴新闻.png" group-title="🇨🇳中國電視台📺",宜兴新闻
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="宜兴紫砂" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/宜兴紫砂.png" group-title="🇨🇳中國電視台📺",宜兴紫砂
 rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 #EXTINF:-1 tvg-name="江宁新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/江宁新闻.png" group-title="🇨🇳中國電視台📺",江宁新闻
@@ -248,21 +266,43 @@ rtmp://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe
 #EXTINF:-1 tvg-name="涟水电视台综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/涟水电视台综合.png" group-title="🇨🇳中國電視台📺",涟水电视台综合
 rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 #EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/溧水新闻综合.png" group-title="🇨🇳中國電視台📺",溧水新闻综合
-https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
-#EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/溧水新闻综合.png" group-title="🇨🇳中國電視台📺",溧水新闻综合
 http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
+#EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/溧水新闻综合.png" group-title="🇨🇳中國電視台📺",溧水新闻综合
+https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
+#EXTINF:-1 tvg-name="睢宁综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/睢宁综合.png" group-title="🇨🇳中國電視台📺",睢宁综合
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/苏州文化生活.png" group-title="🇨🇳中國電視台📺",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/苏州新闻综合.png" group-title="🇨🇳中國電視台📺",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/苏州生活资讯.png" group-title="🇨🇳中國電視台📺",苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 tvg-name="苏州社会经济" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/苏州社会经济.png" group-title="🇨🇳中國電視台📺",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 #EXTINF:-1 tvg-name="赣榆新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/赣榆新闻综合.png" group-title="🇨🇳中國電視台📺",赣榆新闻综合
 rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
+#EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/镇江新闻综合.png" group-title="🇨🇳中國電視台📺",镇江新闻综合
+http://cm-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/辽宁影视剧.png" group-title="🇨🇳中國電視台📺",辽宁影视剧
 http://ygbh.site/php/bfgd.php?id=070
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/辽宁教育青少.png" group-title="🇨🇳中國電視台📺",辽宁教育青少
 http://ygbh.site/php/bfgd.php?id=075
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/湖南都市.png" group-title="🇨🇳中國電視台📺",湖南都市
 http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1iMzZjOWMzNmYxOGYzOTA2Y2ZlODg5OTQzMGUwNTg4NSZ1aWQ9JnV1aWQ9MzhkYWU2ZGEzYzUyNGJiOWRjZjVkYzMwZGQ1ZjIxNDAtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTMwMTU4Mg,,/HNDSMPP360.m3u8
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/湖南经视.png" group-title="🇨🇳中國電視台📺",湖南经视
+http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9Y2Q0MzliOWI1Y2RjY2U2OWVjNTJhOWFlZTBlOGQyMTAmdWlkPSZ1dWlkPWI1MjI0ZDJlZjRjOTIwZmEyMDQ5NjVkZDU2NGY3OGQ3LTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NjEzMTY1NjA,/HNJSMPP360.m3u8
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/湖南电视剧.png" group-title="🇨🇳中國電視台📺",湖南电视剧
 http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0yYzMxZmI4NzUxMTRkNjJlNGEzNDEyMzFmYjgxMWU0YSZ1aWQ9JnV1aWQ9ZWQ5MjhiODgwZWJkODgxYWU2ZmQ3Y2RiMjczMjc2MTUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTMwMzM4NQ,,/HNDSJMPP360.m3u8
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/湖南爱晚.png" group-title="🇨🇳中國電視台📺",湖南爱晚
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz03NDEzZTAzMzliMDdlZjdjYWU5OGFhYTRhZjZhYjAzYiZ1aWQ9JnV1aWQ9MWJhNzlmMGJkZDgwZDk4OGJkNGY0NjJhYWJkNDIzM2MtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTI5MjgwNA,,/HNGGMPP360.m3u8
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1kY2ZmNjUzZjcwOGNiNjM0NTM5ZTU0YTQwOGNiNjU4MyZ1aWQ9JnV1aWQ9ZmU0NjAxNDYwMjNhODBhNTRlNzkxYWYxODgwOTA2MDYtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTMyMTYwNQ,,/HNGGMPP360.m3u8
+#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/长沙政法.png" group-title="🇨🇳中國電視台📺",长沙政法
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/CSZFMPP360.m3u8
+#EXTINF:-1 tvg-name="津南一套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/津南一套.png" group-title="🇨🇳中國電視台📺",津南一套
+http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
+#EXTINF:-1 tvg-name="武清综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/武清综合.png" group-title="🇨🇳中國電視台📺",武清综合
+https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
+#EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/乐山新闻综合.png" group-title="🇨🇳中國電視台📺",乐山新闻综合
+http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
 #EXTINF:-1 tvg-name="叙州新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/叙州新闻综合.png" group-title="🇨🇳中國電視台📺",叙州新闻综合
 http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/福建新闻.png" group-title="🇨🇳中國電視台📺",福建新闻
@@ -275,6 +315,12 @@ http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 #EXTINF:-1 tvg-name="甘肃都市" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/甘肃都市.png" group-title="🇨🇳中國電視台📺",甘肃都市
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+#EXTINF:-1 tvg-name="哈密一套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/哈密一套.png" group-title="🇨🇳中國電視台📺",哈密一套
+https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
+#EXTINF:-1 tvg-name="哈密二套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/哈密二套.png" group-title="🇨🇳中國電視台📺",哈密二套
+https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+#EXTINF:-1 tvg-name="哈密三套" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/哈密三套.png" group-title="🇨🇳中國電視台📺",哈密三套
+https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 #EXTINF:-1 tvg-name="太谷新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/太谷新闻综合.png" group-title="🇨🇳中國電視台📺",太谷新闻综合
 https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 #EXTINF:-1 tvg-name="太谷新闻综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/太谷新闻综合.png" group-title="🇨🇳中國電視台📺",太谷新闻综合
@@ -283,5 +329,5 @@ https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1
 http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 #EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/吉林乡村.png" group-title="🇨🇳中國電視台📺",吉林乡村
 https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
-#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民視第一台.png" group-title="🕘️更新时间",2025-10-24 12:53:42
+#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民視第一台.png" group-title="🕘️更新时间",2025-10-24 18:18:50
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003

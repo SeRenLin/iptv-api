@@ -53,6 +53,8 @@ http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ccbaee5e41f6891431663537e5f2ed72&wsTime=1761289508
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
 http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d7a229de4844d978851128d968e6f4f3&wsTime=1761293138
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/河南卫视.png" group-title="🇨🇳中國電視台📺",河南卫视
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=dd3b8cacb03a21a428682762abcba7fc&wsTime=1761311496
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/浙江生活.png" group-title="🇨🇳中國電視台📺",浙江生活
 http://ls.qingting.fm/live/1099.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/浙江经济生活.png" group-title="🇨🇳中國電視台📺",浙江经济生活
@@ -313,5 +315,5 @@ https://ls.qingting.fm/live/4974/64k.m3u8
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/黑龙江新闻.png" group-title="🇨🇳中國電視台📺",黑龙江新闻
 https://ls.qingting.fm/live/4974/64k.m3u8
-#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民視第一台.png" group-title="🕘️更新时间",2025-10-24 12:53:42
+#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民視第一台.png" group-title="🕘️更新时间",2025-10-24 18:18:50
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
