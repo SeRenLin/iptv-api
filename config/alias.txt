@@ -133,94 +133,179 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 
 ##台灣
 
-民視第一台,民视_第一,民視第一台HD
-民視,民视_HD
-民視台灣台,民视_台湾,民視台灣台HD
+
+民视第一,民视第一台,民视第一台HD,民視第一台,民视_第一,FTV1
+民视电视台,民视,民视_HD,民视无线,民视无线台,FTV
+民视新闻,民视新闻台,民视新闻台HD,民視新聞台,FTVNEWS
+民视台湾,民视台湾台,民视台湾台HD,民視台灣台,民视_台湾,FTVTAIWAN
+民视影剧,民视影剧台
+民视旅游,民视旅游台
+民视综艺,民视综艺台,民視綜藝台,FTVZONGYI
 TVBS,TVBS_HD,TVBSHD
-TVBS精采台,TVBS精采台HD
-TVBS歡樂台,TVBS_欢乐
-中視,中视_HD,中视HD
-華視,华视_HD,华视HD
-三立綜合台,三立_综合,三立綜合台HD
+TVBS新闻,TVBS新闻台,TVBS新聞台,TVBS新聞台
+TVBS综艺,TVBS综艺台,TVBS綜藝台
+TVBS台剧,TVBS台剧台,TVBS台劇台
+TVBS精采,TVBS精采台,TVBS精采台HD
+TVBS欢乐,TVBS欢乐台,TVBS歡樂台,TVBS_欢乐
+中视,中视HD,中視,中視HD,中视_HD
+中视新闻,中视新闻HD,中视新闻台,中視新聞台,中視新聞
+中视经典,中视经典台,中视经典台HD,中視經典台,中視經典
+中视菁采,中视菁采,中视菁采台HD,中視菁采台,中視菁采
+中天新闻,中天新闻台,中天新闻2
+中天综合,中天综合台
+中天娱乐,中天娱乐台
+华视,华视HD,华视电视台,華視,华视_HD
+华视新闻资讯,,华视新闻,华视新闻资讯HD,華視新聞台
+华视教育,华视教育体育文化台,华视教育文化
+三立,三立电视台
+三立INEWS,INEWS,INEWSHD,SETINEWS,三立新聞INEWS,三立新聞台,三立新闻+,三立新闻台,三立新闻,三立新闻INEWS
+三立台湾,三立台湾台,三立台灣台,SETTAIWAN
+三立戏剧,三立戏剧台HD,三立戲劇台,SETXIJU
+三立综合,三立綜合台,三立綜合台HD,SGSCTV
+三立财经新闻,三立财经新闻台,三立财经新闻台HD,三立財經新聞台,三立財經新聞台HD
+三立都会,三立都会台,三立都會台
 MTVLive音樂頻道,MTV Live HD,MTVLiveHD,mTV_音乐
-東森新聞台,东森_新闻
 Nick Jr.兒童頻道,Nick Jr. 兒童頻道,Nick Jr.,Nickelodeon,Nickelodeon Asia,Nick_动画
-中天新聞台,中天新聞台1,中天新聞台2中天新聞台3
-八大第1台,八大第一
-八大綜合台,八大精彩台,八大
-八大戲劇台,八大戏剧
-八大優頻道,八大優
-寰宇新聞台灣台HD,寰宇新聞台,寰宇新聞
-寰宇HD綜合台,寰宇HD綜合
-寰宇財經HD,寰宇財經,寰宇財經台
-寰宇財經,寰宇財經HD
+中天新闻,中天新闻台,中天新闻1,中天新闻2,中天新闻台3,CTI5
+中天娛樂,中天娱乐台,CTIENTERTAINMENT
+中天综合,中天综合台,CTIVARIETY
+八大优,八大优频道八大優頻道,八大優
+八大娱乐,八大娱乐台,八大娛樂,八大娛樂台
+八大戏剧,八大戏剧台,八大戲劇台,八大戲劇
+八大第一,八大第一台,八大第1台,八大第1
+八大精彩,八大精彩台
+八大综合,八大综合台
+八大综艺,八大综艺台
 TVBS精采台,TVBS精采台HD
-博斯運動一台,博斯運動HD,博斯運動,博斯運動1
-博斯運動二台,博斯運動二台HD,博斯運動2
-博斯無限一台,博斯無限台HD,博斯無限台,博斯無限1
-博斯無限二台,博斯無限2,HD
-博斯網球台,博斯網球HD,博斯網球1HD
-博斯高球一台,Golf Channel (博斯高球),博斯高球1,博斯高球1台
-博斯高球二台,Golf Plus (博斯高球二台),博斯高球2,博斯高球2台
-博斯魅力網,博斯魅力HD,博斯魅力
-ELTV生活英語台,ELTV生活英語台,ELTV
-公視(HD),公視1台,公視,公視1,公視1HD
-公視2台,公視2台HD,公視2
-公視3台,公視3台HD,公視3
-公視台語台,公視台語台HD,公視台語
-公視戲劇台,公視戲劇台HD,公視戲劇
-公視兒少台,公視兒少台HD,公視兒少
+博斯运动1,博斯运动一,博斯运动一台,博斯運動一台,博斯運動HD,博斯運動,博斯運動1,博斯_运动1,SPORTSPORTSNET
+博斯运动2,博斯运动二,博斯运动二台,博斯運動二台,博斯運動二台HD,博斯運動2
+博斯无限,博斯无限台,博斯无限台HD,博斯無限一台,博斯無限台HD,博斯無限台,博斯無限1,博斯_无限,SPORTUNLIMITED
+博斯无限2,博斯无限二,博斯无限二台,SPORTUNLIMITED2
+博斯网球,博斯网球HD,博斯网球台,博斯網球台,博斯網球HD,博斯網球1,SPORTTENNIS
+博斯高球,博斯高球一台,Golf Channel (博斯高球),博斯高球1,博斯_高球1,SPORTSGOLFCH
+博斯高球2,博斯高球二,博斯高球二台,Golf Plus (博斯高球二台)
+博斯魅力,博斯魅力网,博斯魅力網,博斯魅力HD,博斯魅力,SPORTTRENDSPORT
+ELTV英語學習台,ELTV生活英語台,ELTV
+公视,公视(HD),公視1台,公視,公視(HD),公視1
+公视2,公視2台,公視2台HD,公視2
+公视3,公視3台,公視3台HD,公視3,公视三
+公视台语,公视台语台,公视台语台HD,公視台語台,公視台語台HD,公視台語
+公视戏剧,公視戲劇台,公視戲劇台HD,公視戲劇
+公视儿少台HD,公視兒少台,公視兒少台HD,公視兒少
+华艺MBC综合,华艺MBC,华艺综合
+华艺台湾,华艺台湾台,华艺台湾台HD
+华艺影剧,华艺影剧台
+华语剧,华语剧台
+台湾戏剧,台湾戏剧HD,台灣戲劇台
+台湾综合,台湾综合台
+台湾艺术,台湾艺术台
+台视,台視,台视HD
+台视新闻,台视新闻HD,台视新闻台,台視新聞台
+台视综合台,台视综合台
+台视财经,台视财经HD,台视财经台,台視財經台
 客家電視台,客家電視,客家電視台HD
-原住民族電視台,原住民族電視HD,原住民族電視
+原住民族電視台,原住民族電視HD,原住民
 滾動力 rollor,rollor
 Smart知識台,Smart知識台HD
-德國之聲電視台(英文台),DW德國之聲,德國之聲
+德國之聲電視台(英文台),德國之聲電視台,德國之聲
 Bloomberg TV,Bloomberg
-Arirang TV阿里郎電視台,Arirang TV,Arirang TV HD,Arirang,ARIRANG阿里郎頻道
-車迷TV,車迷TV HD,車迷TVHD
-TV5MONDE STYLE 生活時尚,TV5MONDE STYLE HD 生活時尚,TV5MONDE STYLE HD,TV5MONDE Style,TV5MONDE
+Arirang TV,Arirang TV HD,Arirang
+車迷TV HD,車迷TV
+TV5MONDE STYLE HD 生活時尚,TV5MONDE STYLE HD,TV5MONDE Style,TV5MONDE
 TRACE Urban,TRACE Urban HD,TraceUrban
 LUXE TV,LUXETV,LUXE TV HD,LUXE TV Channel
-韓國娛樂台KMTV,韓國娛樂台KMTV HD,韓國娛樂台 KMTV
-Global Trekker 探索世界,Global Trekker,Global Trekker HD
+韓國娛樂台KMTV,韓國娛樂台KMTV HD,韓國娛樂台
+Global Trekker,Global Trekker HD
 PET CLUB TV,PET CLUB TV HD,PetClubTV
 Mezzo Live,Mezzo Live HD
-Lifetime 娛樂頻道,Lifetime,Lifetime HD
-CLASSICA 古典樂,CLASSICA HD,CMusic
-MOMO 1台,momo1台HD,momo1
-MOMO 2台,momo2台HD,momo2
-MOMO親子台,momo親子台HD,momo親子
-MOMO綜合台,momo綜合台HD,momo綜合
-i-Fun動漫1台,i-Fun動漫台 HD,iFun1
-i-Fun動漫2台,i-Fun動漫2台 HD,iFun2
-i-Fun動漫3台,i-Fun動漫3台 HD,iFun3
-DreamWorks 夢工廠動畫,DREAMWORKS,Dreamworks
+Lifetime,Lifetime HD
+古典音樂台CLASSICA,古典音樂台CLASSICA HD,
+DREAMWORKS,Dreamworks
 ROCK Action,ROCK Action HD
 CinemaWorld,CinemaWorld HD
 電影原聲台CMusic,CMusic
 采昌影劇台,采昌影劇台HD
+amc電影台,amc最愛電影,AMC
 影迷數位紀實台,影迷數位紀實台HD,影迷數位紀實
 影迷數位電影台,影迷數位電影台HD,影迷數位電影
 TRACE Sport Stars,TRACE Sport Stars HD,TraceSports
 智林體育台,智林體育HD
-CNBC Asia 財經台,CNBC Asia
+TechStorm,TechStorm HD
+CNBC Asia 財經台,CNBC Asia Channel,CNBC Asia
 鏡電視新聞台,鏡電視新聞
 東森新聞台,東森新聞
-大愛一台,大愛電視HD,大愛電視,大愛
-大愛二台,大愛二台HD,大愛電視二台,大愛2
-人間衛視,人間衛視HD
-愛爾達娛樂台,愛爾達娛樂
-愛爾達影劇台.愛爾達影劇,愛爾達影劇台HD
-愛爾達綜合台,愛爾達綜合台HD
-愛爾達體育1台,愛爾達體育1
-愛爾達體育2台,愛爾達體育2
-愛爾達體育3台,愛爾達體育3
-愛爾達體育4台,愛爾達體育4
-龍華偶像HD,龍華偶像
-龍華動畫HD,龍華動畫
-龍華影劇HD,龍華影劇
-龍華戲劇HD,龍華戲劇
-龍華洋片HD,龍華洋片H
-龍華經典HD,龍華經典
-龍華電影HD,龍華電影
-龍華洋片台,龍華洋片台HD
+大爱1,大爱一,大愛一台,大愛電視HD,大愛電視,大愛,DAAI
+大爱2,大爱二,大愛二台,大愛電視二台HD,大愛電視二台,大愛2,DAAI2
+人间卫视,人间卫视HD,人間衛視HD,人間衛視
+ELTA体育2,ELTASPORTS2
+ELTA娱乐,ELTAENT
+ELTA影剧,ELTAYINGJU
+ELTA生活英语,ELTV,ELTV生活英语,ELTV生活英语台
+ELTA综合,ELTAZONGHEHD
+ETTODAY綜合台,ETODAY,ETTODAY,ETTODAY综合
+EYETV戏剧台HD,EYETV戏剧,EYEXIJU,EYE戏剧
+EYETV旅游台HD,EYELVYOU,EYETV旅游,EYE旅游
+FUN探索娱乐台,FUN探索娱乐,FUN探索娱乐台4K
+GINX电子体育,GINXESPORTSTV
+寰宇新闻,寰宇新聞HD,GLOBALNEWS
+寰宇新闻台湾,寰宇新闻台湾台,寰宇新闻台,寰宇新闻台湾台HD
+寰宇综合,寰宇HD综合
+寰宇财经,寰宇财经HD
+东森新闻,东森新闻台,東森新聞台,EBCASIANEWS,EBCNEWS,东森_新闻
+东森亚洲卫视,東森亞洲衛視台,EBCASIAWEISHI
+东森戏剧,东森戏剧台東森戲劇,東森戲劇台,EBCDRAMA
+东森财经,东森财经新闻,东森财经新闻台,東森財經,東森財經新聞,東森財經新聞台,EBCFINANCIALNEWS
+东森综合,东森综合台,東森綜合,東森綜合台,EBCVARIETY
+东森超视,東森超視台,EBCSUPER
+东森电影,东森电影台,東森電影,東森電影台,EBCMOVIES
+东森洋片,东森洋片台,東森洋片,東森洋片台,EBCWESTERNMOVIES
+东森幼幼,东森幼幼台,東森幼幼台
+东森购物,东森购物1台,东森购物1台HD
+八大第1台,GTVONEHD
+八大綜合台,GTVVARIETYHD
+八大戲劇台,GTVDRAMAHD
+八大娛樂台,GTVENTERTAINMENT
+HBO,HBO1
+HBO2
+HBO温馨家庭,HBO家庭,HBOFAMILY,HBOFAMILYEAS
+HBO原创巨献,HBO原创钜献,HBOSIGNATURE
+HBO强档钜献,HBOHITS
+HBOCOMEDYHD
+HBOHD
+HBOMAX
+HBOPLUS
+HBOSIGNATURE
+HBOZONE,HBOZONEHD
+IFUN,IFUN1
+IFUN动漫,IFUN2
+IFUN儿童,IFUN3
+JET综合台,JET综合,JETVARIETY
+靖天综合,靖天综合台,靖天综合台HD
+靖天国际,KLT靖天国际台,KLT靖天国际台HD
+靖天戏剧,靖天戏剧台,靖天戏剧HD
+靖天日本,靖天日本台,靖天日本HD
+靖天映画,靖天映画HD
+靖天卡通,靖天卡通HD
+靖天育乐,靖天育乐HD,靖天育乐台
+靖天资讯,靖天资讯台,靖天资讯HD
+靖天电影,靖天电影台HD
+靖天欢乐,靖天欢乐台,NICETV靖天欢乐台
+韓國娛樂台KMTV,KMTV
+LSTIME电影,LSTIME电影台,LSTIME
+MOMO亲子,MOMO亲子台,MOMOKIDS
+MOMO综合,MOMO综合台,MOMO综合台HD
+MOMO1台,momo1台HD,momo1
+MOMO2台,momo2台HD,momo2
+霹靂布袋戲,PILIPUPPET
+原住民电视,原住民頻道,原住民族電視台,原住民族電視HD,原住民族,原住民
+唯心电视,唯心电视HD,唯心电视台
+国会频道1,国会频道1HD,国会频道1台,國會頻道1
+国会频道2,国会频道2HD,国会频道2台,國會頻道2
+壹新闻,壹电视新闻,壹电视新闻HD,壹电视新闻台
+壹电影,壹电视电影,壹电视电影台,壹电视电影台HD
+壹综合,壹电视综合,壹电视综合HD,壹电视资讯综合台
+大立电视,大立电视台,大立电视台HD
+好消息1,好消息,好消息HD,好消息頻道
+好消息2,好消息2台
+好莱坞电影,好莱坞电影台
+客家电视,客家,客家电视HD,客家电视台
