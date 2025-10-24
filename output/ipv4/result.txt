@@ -28,8 +28,6 @@
 靖洋卡通,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv057
 寰宇新聞台灣台HD,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
 寰宇新聞台灣台HD,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 TVBS新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 TVBS歡樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
 TVBS精采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
@@ -58,7 +56,6 @@ TVBS精采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 Smart知識台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
 
 🇭🇰港·澳🌊,#genre#
-翡翠台,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
 
 🎬电影频道,#genre#
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
@@ -70,7 +67,6 @@ CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
 
 🪁动画频道,#genre#
 卡酷动画,http://ygbh.site/php/bfgd.php?id=106
-漫画解说,https://lunbo.freetv.top/yy/1382735568
 
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
@@ -78,12 +74,11 @@ CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
 
 🎵音乐频道,#genre#
 CCTV-15,http://ygbh.site/php/bfgd.php?id=133
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛经典剧场,#genre#
 天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
-水浒传,https://lunbo.freetv.top/yy/1353215589
 
 🇨🇳中國電視台📺,#genre#
 CCTV-1,http://ygbh.site/php/bfgd.php?id=488
@@ -135,33 +130,33 @@ CETV-2,http://ygbh.site/php/bfgd.php?id=492
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 法治天地,http://ygbh.site/php/bfgd.php?id=162
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
+宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
 泗洪新闻综合,rtmp://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe
 涟水电视台综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
-溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 溧水新闻综合,https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
+溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
-镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 辽宁影视剧,http://ygbh.site/php/bfgd.php?id=070
 辽宁教育青少,http://ygbh.site/php/bfgd.php?id=075
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
+湖南都市,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1iMzZjOWMzNmYxOGYzOTA2Y2ZlODg5OTQzMGUwNTg4NSZ1aWQ9JnV1aWQ9MzhkYWU2ZGEzYzUyNGJiOWRjZjVkYzMwZGQ1ZjIxNDAtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTMwMTU4Mg,,/HNDSMPP360.m3u8
+湖南电视剧,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0yYzMxZmI4NzUxMTRkNjJlNGEzNDEyMzFmYjgxMWU0YSZ1aWQ9JnV1aWQ9ZWQ5MjhiODgwZWJkODgxYWU2ZmQ3Y2RiMjczMjc2MTUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTMwMzM4NQ,,/HNDSJMPP360.m3u8
+湖南爱晚,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz03NDEzZTAzMzliMDdlZjdjYWU5OGFhYTRhZjZhYjAzYiZ1aWQ9JnV1aWQ9MWJhNzlmMGJkZDgwZDk4OGJkNGY0NjJhYWJkNDIzM2MtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTI5MjgwNA,,/HNGGMPP360.m3u8
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 
 🕘️更新时间,#genre#
-2025-10-24 12:01:55,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
+2025-10-24 12:53:42,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
