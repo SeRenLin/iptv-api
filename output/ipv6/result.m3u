@@ -43,12 +43,16 @@ https://stream1.freetv.fun/min-shi-tai-wan-6.ctv
 https://tv.iill.top/litv/litv-ftv09
 #EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视影剧.png" group-title="🇹🇼台灣頻道",民视影剧
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv09
+#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视影剧.png" group-title="🇹🇼台灣頻道",民视影剧
+https://stream1.freetv.fun/aeaa276b0f26990d40f2961860c6800aa8f9952ed53e4dbdac183a6da752c5bf.ctv
 #EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视旅游.png" group-title="🇹🇼台灣頻道",民视旅游
 https://hls-gateway.vpstv.net/streams/476240.m3u8
 #EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视旅游.png" group-title="🇹🇼台灣頻道",民视旅游
 https://tv.iill.top/litv/litv-ftv07
 #EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视旅游.png" group-title="🇹🇼台灣頻道",民视旅游
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv07
+#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视旅游.png" group-title="🇹🇼台灣頻道",民视旅游
+https://stream1.freetv.fun/bc7d1542839dba8b2faef9baecfed0f7ec9d5ec796be820030a16d4d2849fd64.ctv
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视综艺.png" group-title="🇹🇼台灣頻道",民视综艺
 https://tv.iill.top/litv/4gtv-4gtv004
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视综艺.png" group-title="🇹🇼台灣頻道",民视综艺
@@ -563,6 +567,8 @@ https://hls-gateway.vpstv.net/streams/476298.m3u8
 https://tv.iill.top/litv/4gtv-4gtv042
 #EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/公视戏剧.png" group-title="🇹🇼台灣頻道",公视戏剧
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv042
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/公视戏剧.png" group-title="🇹🇼台灣頻道",公视戏剧
+https://stream1.freetv.fun/5d7f7cd3ae208653f25e1f78ef7f4684b10b37f034002f7566d045a779fe1cdf.ctv
 #EXTINF:-1 tvg-name="华艺MBC综合" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/华艺MBC综合.png" group-title="🇹🇼台灣頻道",华艺MBC综合
 http://pullpackage.alivecdn.com/live/JNFujWQCFcYCBU2iOu2XAyb3mbuNNsJgqOHJRuFYfN3ccgIZrS.flv
 #EXTINF:-1 tvg-name="华语影院" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/华语影院.png" group-title="🇹🇼台灣頻道",华语影院
@@ -785,6 +791,8 @@ https://live.catvod.com/live.php?id=eyetvtravel_twn&token=841c215282121e28af5d60
 https://live.catvod.com/live.php?id=eyetvtravel_twn&token=030dd6f534a78808ea92ee9fd4387ad3e1667365984bc9ef40c8d2c798f31bdb%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 #EXTINF:-1 tvg-name="EYETV旅游台HD" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/EYETV旅游台HD.png" group-title="🇹🇼台灣頻道",EYETV旅游台HD
 https://live.catvod.com/live.php?id=eyetvtravel_twn&token=a338875c8217774e79a538f166d54b70433117b393f7347a9c5454b648f7331b%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
+#EXTINF:-1 tvg-name="EYETV旅游台HD" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/EYETV旅游台HD.png" group-title="🇹🇼台灣頻道",EYETV旅游台HD
+https://live.catvod.com/live.php?id=eyetvtravel_twn&token=db18dd5eba0db2846ce48b5773563253b78f72dbdc4e7dcdf245bb5cddc2e36e%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBO.png" group-title="🇹🇼台灣頻道",HBO
 http://pullpackage.alivecdn.com/live/GfPVn0eDChnsJgqOmsvZeKXYTNMgH8clNLUesg4VlSCLjkEICb.flv
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBO.png" group-title="🇹🇼台灣頻道",HBO
@@ -815,6 +823,8 @@ https://live.catvod.com/live.php?id=Hbosignature&token=7d22f18e458950fa514578378
 https://live.catvod.com/live.php?id=Hbosignature&token=29481d645c64d00052245b1fa71a3d0cf935440dfb0eded61f4f1b9acb0c997c%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 #EXTINF:-1 tvg-name="HBO原创巨献" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBO原创巨献.png" group-title="🇹🇼台灣頻道",HBO原创巨献
 https://live.catvod.com/live.php?id=Hbosignature&token=acdccc13573ced7656b804d7106bdbadb66b2ad0cc0cd9a1f1fa48301aca889a%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
+#EXTINF:-1 tvg-name="HBO原创巨献" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBO原创巨献.png" group-title="🇹🇼台灣頻道",HBO原创巨献
+https://live.catvod.com/live.php?id=Hbosignature&token=0fbcfaaa0eae88d567ce2cf733cc9166e832762c8136a5640606a77691564ae9%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 #EXTINF:-1 tvg-name="HBO强档钜献" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBO强档钜献.png" group-title="🇹🇼台灣頻道",HBO强档钜献
 https://live.catvod.com/live.php?id=hbohit_twn&token=4de63e5e2b75e98e580624a4d484056eaa514af8a42b26d9641c55f5970f5bbf%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="HBO强档钜献" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBO强档钜献.png" group-title="🇹🇼台灣頻道",HBO强档钜献
@@ -843,6 +853,8 @@ https://live.catvod.com/live.php?id=Hbosignature&token=7d22f18e458950fa514578378
 https://live.catvod.com/live.php?id=Hbosignature&token=29481d645c64d00052245b1fa71a3d0cf935440dfb0eded61f4f1b9acb0c997c%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 #EXTINF:-1 tvg-name="HBOSIGNATURE" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBOSIGNATURE.png" group-title="🇹🇼台灣頻道",HBOSIGNATURE
 https://live.catvod.com/live.php?id=Hbosignature&token=acdccc13573ced7656b804d7106bdbadb66b2ad0cc0cd9a1f1fa48301aca889a%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
+#EXTINF:-1 tvg-name="HBOSIGNATURE" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/HBOSIGNATURE.png" group-title="🇹🇼台灣頻道",HBOSIGNATURE
+https://live.catvod.com/live.php?id=Hbosignature&token=0fbcfaaa0eae88d567ce2cf733cc9166e832762c8136a5640606a77691564ae9%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 #EXTINF:-1 tvg-name="JET综合台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/JET综合台.png" group-title="🇹🇼台灣頻道",JET综合台
 https://live.catvod.com/live.php?id=jet&token=5bee3e3d175c33e01deaf79989d6fec0b80138a08fd1c58dd491d094be199b75%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="JET综合台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/JET综合台.png" group-title="🇹🇼台灣頻道",JET综合台
@@ -851,6 +863,8 @@ https://live.catvod.com/live.php?id=jet&token=8dbbb8faffde21e4a2da1cd8137f160a46
 https://live.catvod.com/live.php?id=jet&token=27c674ff6e25e9e08e8b4f503cc246bdc55f57b677ba8d44f0b1737dbf961e18%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 #EXTINF:-1 tvg-name="JET综合台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/JET综合台.png" group-title="🇹🇼台灣頻道",JET综合台
 https://live.catvod.com/live.php?id=jet&token=26879c24213a077731395ddfa886274338a0c485a12e850e09a136feb1e8c0e7%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
+#EXTINF:-1 tvg-name="JET综合台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/JET综合台.png" group-title="🇹🇼台灣頻道",JET综合台
+https://live.catvod.com/live.php?id=jet&token=7e0cc0f30e3a82fdf0f6e009b36cbfe892bf8cad9731fe60e30d23c3ed0308db%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 #EXTINF:-1 tvg-name="壹新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/壹新闻.png" group-title="🇹🇼台灣頻道",壹新闻
 https://live.catvod.com/live.php?id=yinews&token=210d622e18b66fd49e7a1d07695bca1613f3ef9c6c86d5c8abddfe9e2e4d721b%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="壹新闻" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/壹新闻.png" group-title="🇹🇼台灣頻道",壹新闻
@@ -887,6 +901,8 @@ https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=7375b0183460f1a663
 https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=55963a185cf1336db4ccf5858f9274f688b176130e57052e53ba7d7fe8194d64%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/好莱坞电影.png" group-title="🇹🇼台灣頻道",好莱坞电影
 https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=dac745aebcb5f80850d71d73eebc1726c16a13d96edc383fd34bb45034c468c0%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/好莱坞电影.png" group-title="🇹🇼台灣頻道",好莱坞电影
+https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=bb2cdd525ff4c20afe37e825750ec5ea7b6895ec6d55525057a70b7e84a6b63f%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/翡翠台.png" group-title="🌊港·澳",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/翡翠台.png" group-title="🌊港·澳",翡翠台
@@ -1507,5 +1523,5 @@ http://luobo.bkpcp.top/yy/1382745184
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
 http://live.iill.top/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-10-28 16:46:28
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-10-29 16:47:43
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn

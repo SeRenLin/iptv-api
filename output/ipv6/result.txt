@@ -21,9 +21,11 @@
 民视台湾,https://stream1.freetv.fun/min-shi-tai-wan-6.ctv
 民视影剧,https://tv.iill.top/litv/litv-ftv09
 民视影剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv09
+民视影剧,https://stream1.freetv.fun/aeaa276b0f26990d40f2961860c6800aa8f9952ed53e4dbdac183a6da752c5bf.ctv
 民视旅游,https://hls-gateway.vpstv.net/streams/476240.m3u8
 民视旅游,https://tv.iill.top/litv/litv-ftv07
 民视旅游,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv07
+民视旅游,https://stream1.freetv.fun/bc7d1542839dba8b2faef9baecfed0f7ec9d5ec796be820030a16d4d2849fd64.ctv
 民视综艺,https://tv.iill.top/litv/4gtv-4gtv004
 民视综艺,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv004
 中视,https://stream1.freetv.fun/zhong-shi-6.m3u8
@@ -281,6 +283,7 @@ CatchPlay,https://hls-gateway.vpstv.net/streams/708881.m3u8
 公视戏剧,https://hls-gateway.vpstv.net/streams/476298.m3u8
 公视戏剧,https://tv.iill.top/litv/4gtv-4gtv042
 公视戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv042
+公视戏剧,https://stream1.freetv.fun/5d7f7cd3ae208653f25e1f78ef7f4684b10b37f034002f7566d045a779fe1cdf.ctv
 华艺MBC综合,http://pullpackage.alivecdn.com/live/JNFujWQCFcYCBU2iOu2XAyb3mbuNNsJgqOHJRuFYfN3ccgIZrS.flv
 华语影院,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288005/index.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=YanG-1989
 采昌影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv049
@@ -392,6 +395,7 @@ EYETV旅游台HD,https://live.catvod.com/live.php?id=eyetvtravel_twn&token=ea560
 EYETV旅游台HD,https://live.catvod.com/live.php?id=eyetvtravel_twn&token=841c215282121e28af5d60053cb3b874cc13f1d5f4b35de19697c70bdf1393d0%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
 EYETV旅游台HD,https://live.catvod.com/live.php?id=eyetvtravel_twn&token=030dd6f534a78808ea92ee9fd4387ad3e1667365984bc9ef40c8d2c798f31bdb%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 EYETV旅游台HD,https://live.catvod.com/live.php?id=eyetvtravel_twn&token=a338875c8217774e79a538f166d54b70433117b393f7347a9c5454b648f7331b%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
+EYETV旅游台HD,https://live.catvod.com/live.php?id=eyetvtravel_twn&token=db18dd5eba0db2846ce48b5773563253b78f72dbdc4e7dcdf245bb5cddc2e36e%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 HBO,http://pullpackage.alivecdn.com/live/GfPVn0eDChnsJgqOmsvZeKXYTNMgH8clNLUesg4VlSCLjkEICb.flv
 HBO,http://pullpackage.alivecdn.com/live/kD0Grg6PTqpktGbHEewF1IdNYdXaPI9sJgqO1w3b1CVXRYc9nQ.flv
 HBO,https://bee.188766.xyz/bee?id=beesport&pid=HBO&token=96224f7596224f7596224f7596224f75
@@ -407,6 +411,7 @@ HBO原创巨献,https://live.catvod.com/live.php?id=Hbosignature&token=91319ceb1
 HBO原创巨献,https://live.catvod.com/live.php?id=Hbosignature&token=7d22f18e458950fa51457837859f2a935f12f2a5aab865f35401faedc18cd0cd%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
 HBO原创巨献,https://live.catvod.com/live.php?id=Hbosignature&token=29481d645c64d00052245b1fa71a3d0cf935440dfb0eded61f4f1b9acb0c997c%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 HBO原创巨献,https://live.catvod.com/live.php?id=Hbosignature&token=acdccc13573ced7656b804d7106bdbadb66b2ad0cc0cd9a1f1fa48301aca889a%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
+HBO原创巨献,https://live.catvod.com/live.php?id=Hbosignature&token=0fbcfaaa0eae88d567ce2cf733cc9166e832762c8136a5640606a77691564ae9%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 HBO强档钜献,https://live.catvod.com/live.php?id=hbohit_twn&token=4de63e5e2b75e98e580624a4d484056eaa514af8a42b26d9641c55f5970f5bbf%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 HBO强档钜献,https://live.catvod.com/live.php?id=Hbohitshd&token=24bbf2af8453dadf04a4d617a1b9e741261281e51c68d5f562e5b037c01f469a%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 HBO强档钜献,https://live.catvod.com/live.php?id=hbohit_twn&token=f89206786f40bfe8bcb43575a6ca607056b31b585f827b53eb05df0f958fdedf%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
@@ -421,10 +426,12 @@ HBOSIGNATURE,https://live.catvod.com/live.php?id=Hbosignature&token=91319ceb18f7
 HBOSIGNATURE,https://live.catvod.com/live.php?id=Hbosignature&token=7d22f18e458950fa51457837859f2a935f12f2a5aab865f35401faedc18cd0cd%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
 HBOSIGNATURE,https://live.catvod.com/live.php?id=Hbosignature&token=29481d645c64d00052245b1fa71a3d0cf935440dfb0eded61f4f1b9acb0c997c%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 HBOSIGNATURE,https://live.catvod.com/live.php?id=Hbosignature&token=acdccc13573ced7656b804d7106bdbadb66b2ad0cc0cd9a1f1fa48301aca889a%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
+HBOSIGNATURE,https://live.catvod.com/live.php?id=Hbosignature&token=0fbcfaaa0eae88d567ce2cf733cc9166e832762c8136a5640606a77691564ae9%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 JET综合台,https://live.catvod.com/live.php?id=jet&token=5bee3e3d175c33e01deaf79989d6fec0b80138a08fd1c58dd491d094be199b75%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 JET综合台,https://live.catvod.com/live.php?id=jet&token=8dbbb8faffde21e4a2da1cd8137f160a46cd1a8e7bb79473bcfe03d26b6fe7da%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
 JET综合台,https://live.catvod.com/live.php?id=jet&token=27c674ff6e25e9e08e8b4f503cc246bdc55f57b677ba8d44f0b1737dbf961e18%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 JET综合台,https://live.catvod.com/live.php?id=jet&token=26879c24213a077731395ddfa886274338a0c485a12e850e09a136feb1e8c0e7%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
+JET综合台,https://live.catvod.com/live.php?id=jet&token=7e0cc0f30e3a82fdf0f6e009b36cbfe892bf8cad9731fe60e30d23c3ed0308db%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 壹新闻,https://live.catvod.com/live.php?id=yinews&token=210d622e18b66fd49e7a1d07695bca1613f3ef9c6c86d5c8abddfe9e2e4d721b%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 壹新闻,https://hls-gateway.vpstv.net/streams/488993.m3u8
 壹新闻,https://live.catvod.com/live.php?id=yinews&token=dbf6f3bbf260830c7fdcc5c666f177560f3e8fea5cd0e1200fbf37d72ae97b84%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
@@ -443,6 +450,7 @@ JET综合台,https://live.catvod.com/live.php?id=jet&token=26879c24213a077731395
 好莱坞电影,https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=7375b0183460f1a66303f7329cfb0af6d005dbbf800b0b541aac649bdb116e89%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
 好莱坞电影,https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=55963a185cf1336db4ccf5858f9274f688b176130e57052e53ba7d7fe8194d64%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 好莱坞电影,https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=dac745aebcb5f80850d71d73eebc1726c16a13d96edc383fd34bb45034c468c0%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
+好莱坞电影,https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=bb2cdd525ff4c20afe37e825750ec5ea7b6895ec6d55525057a70b7e84a6b63f%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 
 🌊港·澳,#genre#
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
@@ -771,4 +779,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-10-28 16:46:28,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-10-29 16:47:43,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
