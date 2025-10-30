@@ -441,6 +441,7 @@ JET综合台,https://live.catvod.com/live.php?id=jet&token=7e0cc0f30e3a82fdf0f6e
 壹综合,https://hls-gateway.vpstv.net/streams/709284.m3u8
 好消息1,https://hls-gateway.vpstv.net/streams/476227.m3u8
 好消息1,https://tv.iill.top/litv/litv-ftv16
+好消息1,https://stream1.freetv.fun/4aa5028a292feeab65651639f5d25f212d77dc531a8832de5e6db03f48dc538d.m3u8
 好消息2,https://live.catvod.com/live.php?id=good2_twn&token=5bc4cd5ddcf311802e6bbc2b00966e04258e5e34c43d8ca32af16d4ebbf4e580%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 好消息2,https://tv.iill.top/litv/litv-ftv17
 好消息2,https://live.catvod.com/live.php?id=good2_twn&token=dcf5ea634d121c82cf48f067f27e726f845d51d1aa09ce51feeda48d712bdb23%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
@@ -779,4 +780,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-10-29 16:47:43,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-10-30 16:41:25,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn

@@ -883,6 +883,8 @@ https://hls-gateway.vpstv.net/streams/709284.m3u8
 https://hls-gateway.vpstv.net/streams/476227.m3u8
 #EXTINF:-1 tvg-name="好消息1" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/好消息1.png" group-title="🇹🇼台灣頻道",好消息1
 https://tv.iill.top/litv/litv-ftv16
+#EXTINF:-1 tvg-name="好消息1" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/好消息1.png" group-title="🇹🇼台灣頻道",好消息1
+https://stream1.freetv.fun/4aa5028a292feeab65651639f5d25f212d77dc531a8832de5e6db03f48dc538d.m3u8
 #EXTINF:-1 tvg-name="好消息2" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/好消息2.png" group-title="🇹🇼台灣頻道",好消息2
 https://live.catvod.com/live.php?id=good2_twn&token=5bc4cd5ddcf311802e6bbc2b00966e04258e5e34c43d8ca32af16d4ebbf4e580%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="好消息2" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/好消息2.png" group-title="🇹🇼台灣頻道",好消息2
@@ -1523,5 +1525,5 @@ http://luobo.bkpcp.top/yy/1382745184
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
 http://live.iill.top/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-10-29 16:47:43
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://github.com/alansoon/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-10-30 16:41:25
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
