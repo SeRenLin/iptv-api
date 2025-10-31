@@ -453,44 +453,6 @@ JET综合台,https://live.catvod.com/live.php?id=jet&token=7e0cc0f30e3a82fdf0f6e
 好莱坞电影,https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=dac745aebcb5f80850d71d73eebc1726c16a13d96edc383fd34bb45034c468c0%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
 好莱坞电影,https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=bb2cdd525ff4c20afe37e825750ec5ea7b6895ec6d55525057a70b7e84a6b63f%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 
-🌊港·澳,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
-翡翠台,https://migu.188766.xyz/?migutoken=a04aef1f78d3ae772c218c9d3dbf488d&id=jade_twn&type=dy
-翡翠台,https://migu.188766.xyz/?migutoken=d203aaa183eaca08e87394e5a1cbfc2a&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-明珠台,https://migu.188766.xyz/?migutoken=cddccc751f775a170e53b7bbef85816e&id=pearl_twn&type=dy
-明珠台,https://stream1.freetv.fun/ming-zhu-1.ctv
-明珠台,https://stream1.freetv.fun/ming-zhu-10.ctv
-明珠台,https://stream1.freetv.fun/ming-zhu-11.ctv
-凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,https://migu.188766.xyz/?migutoken=b26b05a62494368345ca9f5ce4e07d04&id=fhzw&pp=1
-凤凰中文,https://migu.188766.xyz/?migutoken=de57f3b29f69f0c72d3a518bdce4d2d6&id=phoenixtv_hd&type=dy
-凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,https://migu.188766.xyz/?migutoken=6e51202ce4e8517dba0796eaa5e450fd&id=fhzx&pp=1
-凤凰资讯,https://migu.188766.xyz/?migutoken=a9dbca38490cfe52ea360dbc1f84308d&id=phoenixinfo_hd&type=dy
-凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-凤凰香港,https://migu.188766.xyz/?migutoken=2ea79241c13ff667b7c67e4fa3d7f8cf&id=fhhk&pp=1
-凤凰香港,https://migu.188766.xyz/?migutoken=44a323c6a16223ba46a8919f6358c7bd&id=hkphoenix_twn&type=dy
-凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰卫视,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
-香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
-香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
-J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
-Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
-
 🎬电影频道,#genre#
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
@@ -781,4 +743,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-10-31 16:40:20,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-10-31 23:56:43,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
