@@ -45,6 +45,10 @@ https://tv.iill.top/litv/litv-ftv09
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv09
 #EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视影剧.png" group-title="🇹🇼台灣頻道",民视影剧
 https://stream1.freetv.fun/aeaa276b0f26990d40f2961860c6800aa8f9952ed53e4dbdac183a6da752c5bf.ctv
+#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视影剧.png" group-title="🇹🇼台灣頻道",民视影剧
+https://mao.ffmking888.dpdns.org/?id=5rCR6KaW5b2x5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视影剧.png" group-title="🇹🇼台灣頻道",民视影剧
+https://smart.dxjc.pp.ua/smart.php?id=toptv_twn&token=tmxk
 #EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视旅游.png" group-title="🇹🇼台灣頻道",民视旅游
 https://hls-gateway.vpstv.net/streams/476240.m3u8
 #EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视旅游.png" group-title="🇹🇼台灣頻道",民视旅游
@@ -53,10 +57,14 @@ https://tv.iill.top/litv/litv-ftv07
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv07
 #EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视旅游.png" group-title="🇹🇼台灣頻道",民视旅游
 https://stream1.freetv.fun/bc7d1542839dba8b2faef9baecfed0f7ec9d5ec796be820030a16d4d2849fd64.ctv
+#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视旅游.png" group-title="🇹🇼台灣頻道",民视旅游
+https://mao.ffmking888.dpdns.org/?id=5rCR6KaW5peF6YGK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视综艺.png" group-title="🇹🇼台灣頻道",民视综艺
 https://tv.iill.top/litv/4gtv-4gtv004
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视综艺.png" group-title="🇹🇼台灣頻道",民视综艺
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv004
+#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视综艺.png" group-title="🇹🇼台灣頻道",民视综艺
+https://mao.ffmking888.dpdns.org/?id=5rCR6KaW57ac6Jed5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/中视.png" group-title="🇹🇼台灣頻道",中视
 https://stream1.freetv.fun/zhong-shi-6.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/中视.png" group-title="🇹🇼台灣頻道",中视
@@ -119,6 +127,8 @@ https://stream1.freetv.fun/252e32adc858bf5858b698cf4646b30547c4de93d9e4403dbb30c
 https://stream1.freetv.fun/273feeba13fbb981cd84c91626576722b00e46b6aadf5c3fff46b3267dcd3131.ctv
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/中天综合.png" group-title="🇹🇼台灣頻道",中天综合
 https://hls-gateway.vpstv.net/streams/477084.m3u8
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/中天综合.png" group-title="🇹🇼台灣頻道",中天综合
+https://stream1.freetv.fun/775f1b5191906d084c014827729aa231f991215c2ad1c49f3cd4be440869dcfe.ctv
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/华视.png" group-title="🇹🇼台灣頻道",华视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/华视.png" group-title="🇹🇼台灣頻道",华视
@@ -147,6 +157,8 @@ https://hls-gateway.vpstv.net/streams/476259.m3u8
 https://tv.iill.top/litv/4gtv-4gtv046
 #EXTINF:-1 tvg-name="靖天综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖天综合.png" group-title="🇹🇼台灣頻道",靖天综合
 https://stream1.freetv.fun/7e060f929f91e2461c4a07ab2d6ee297afecf1cf7e6c81d2e5288ed7bb9d94a4.ctv
+#EXTINF:-1 tvg-name="靖天综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖天综合.png" group-title="🇹🇼台灣頻道",靖天综合
+https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp57ac5ZCI5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖天国际.png" group-title="🇹🇼台灣頻道",靖天国际
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv063
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖天国际.png" group-title="🇹🇼台灣頻道",靖天国际
@@ -215,6 +227,8 @@ https://tv.iill.top/litv/4gtv-4gtv061
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv061
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖天电影.png" group-title="🇹🇼台灣頻道",靖天电影
 https://stream1.freetv.fun/5a3ca22ed712c8c5484529360d39052a478079e6f64f07a8453d9fca448db711.ctv
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖天电影.png" group-title="🇹🇼台灣頻道",靖天电影
+https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="靖天欢乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖天欢乐.png" group-title="🇹🇼台灣頻道",靖天欢乐
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv054
 #EXTINF:-1 tvg-name="靖天欢乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖天欢乐.png" group-title="🇹🇼台灣頻道",靖天欢乐
@@ -227,6 +241,8 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-long
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn02
 #EXTINF:-1 tvg-name="靖洋戲劇台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖洋戲劇台.png" group-title="🇹🇼台灣頻道",靖洋戲劇台
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv045
+#EXTINF:-1 tvg-name="靖洋戲劇台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖洋戲劇台.png" group-title="🇹🇼台灣頻道",靖洋戲劇台
+https://mao.ffmking888.dpdns.org/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="靖洋卡通" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖洋卡通.png" group-title="🇹🇼台灣頻道",靖洋卡通
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv057
 #EXTINF:-1 tvg-name="靖洋卡通" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/靖洋卡通.png" group-title="🇹🇼台灣頻道",靖洋卡通
@@ -277,22 +293,44 @@ https://tv.iill.top/litv/4gtv-4gtv072
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS新闻.png" group-title="🇹🇼台灣頻道",TVBS新闻
 https://usiptv.esnad.dpdns.org/?id=tvbsnews
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS新闻.png" group-title="🇹🇼台灣頻道",TVBS新闻
+https://stream1.freetv.fun/tvbsxin-wen-5.ctv
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS新闻.png" group-title="🇹🇼台灣頻道",TVBS新闻
+https://mao.ffmking888.dpdns.org/?id=VFZCUaaWsOiBngxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="TVBS综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS综艺.png" group-title="🇹🇼台灣頻道",TVBS综艺
 https://hls-gateway.vpstv.net/streams/708955.m3u8
 #EXTINF:-1 tvg-name="TVBS综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS综艺.png" group-title="🇹🇼台灣頻道",TVBS综艺
 https://tv.iill.top/4gtv/4gtv-live087
+#EXTINF:-1 tvg-name="TVBS综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS综艺.png" group-title="🇹🇼台灣頻道",TVBS综艺
+https://mao.ffmking888.dpdns.org/?id=VFZCUae2nOiXneWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 tvg-name="TVBS综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS综艺.png" group-title="🇹🇼台灣頻道",TVBS综艺
+https://4gtv.dxjc.pp.ua/4gtv-live087/index.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS欢乐.png" group-title="🇹🇼台灣頻道",TVBS欢乐
 https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS欢乐.png" group-title="🇹🇼台灣頻道",TVBS欢乐
 https://tv.iill.top/litv/4gtv-4gtv068
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS欢乐.png" group-title="🇹🇼台灣頻道",TVBS欢乐
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS欢乐.png" group-title="🇹🇼台灣頻道",TVBS欢乐
+https://4gtv.dxjc.pp.ua/li-4gtv-4gtv068/index.m3u8
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS欢乐.png" group-title="🇹🇼台灣頻道",TVBS欢乐
+https://4gtv.dxjc.pp.ua/4gtv-4gtv068/index.m3u8
 #EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS精采.png" group-title="🇹🇼台灣頻道",TVBS精采
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv067
+#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS精采.png" group-title="🇹🇼台灣頻道",TVBS精采
+https://mao.ffmking888.dpdns.org/?id=VFZCUaeyvumHhaWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS精采.png" group-title="🇹🇼台灣頻道",TVBS精采
+https://4gtv.dxjc.pp.ua/li-4gtv-4gtv067/index.m3u8
+#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS精采.png" group-title="🇹🇼台灣頻道",TVBS精采
+https://4gtv.dxjc.pp.ua/4gtv-4gtv067/index.m3u8
 #EXTINF:-1 tvg-name="TVBS台剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS台剧.png" group-title="🇹🇼台灣頻道",TVBS台剧
 https://hls-gateway.vpstv.net/streams/708956.m3u8
 #EXTINF:-1 tvg-name="TVBS台剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS台剧.png" group-title="🇹🇼台灣頻道",TVBS台剧
 https://tv.iill.top/4gtv/4gtv-live088
+#EXTINF:-1 tvg-name="TVBS台剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS台剧.png" group-title="🇹🇼台灣頻道",TVBS台剧
+https://mao.ffmking888.dpdns.org/?id=VFZCUaWPsOWKhaWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 tvg-name="TVBS台剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS台剧.png" group-title="🇹🇼台灣頻道",TVBS台剧
+https://4gtv.dxjc.pp.ua/4gtv-live088/index.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TVBS亚洲.png" group-title="🇹🇼台灣頻道",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-name="八大精彩" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大精彩.png" group-title="🇹🇼台灣頻道",八大精彩
@@ -303,12 +341,18 @@ https://tv.iill.top/litv/4gtv-4gtv034
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv034
 #EXTINF:-1 tvg-name="八大精彩" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大精彩.png" group-title="🇹🇼台灣頻道",八大精彩
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv034
+#EXTINF:-1 tvg-name="八大精彩" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大精彩.png" group-title="🇹🇼台灣頻道",八大精彩
+https://4gtv.dxjc.pp.ua/li-4gtv-4gtv034/index.m3u8
 #EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大综艺.png" group-title="🇹🇼台灣頻道",八大综艺
 https://tv.iill.top/litv/4gtv-4gtv039
 #EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大综艺.png" group-title="🇹🇼台灣頻道",八大综艺
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv039
 #EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大综艺.png" group-title="🇹🇼台灣頻道",八大综艺
 https://stream1.freetv.fun/7c8f59b489914f40346ad14a3ab97910f09456c98dba8ca22cff24715ec1a498.ctv
+#EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大综艺.png" group-title="🇹🇼台灣頻道",八大综艺
+https://4gtv.dxjc.pp.ua/4gtv-4gtv039/index.m3u8
+#EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大综艺.png" group-title="🇹🇼台灣頻道",八大综艺
+https://mao.ffmking888.dpdns.org/?id=5YWr5aSn57ac6Jed5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="三立INEWS" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立INEWS.png" group-title="🇹🇼台灣頻道",三立INEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 tvg-name="三立INEWS" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立INEWS.png" group-title="🇹🇼台灣頻道",三立INEWS
@@ -325,12 +369,18 @@ https://hls-gateway.vpstv.net/streams/477050.m3u8
 https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立台湾.png" group-title="🇹🇼台灣頻道",三立台湾
 https://stream1.freetv.fun/945b62a11c90469ac374aa5fad47364339e509f9d53b0768e2dc5535207edea6.ctv
+#EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立台湾.png" group-title="🇹🇼台灣頻道",三立台湾
+https://stream1.freetv.fun/5b8d8dd98a4c4142a48cdc5a97519fcd583cecccb08f384d48682bffa263530d.ctv
 #EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立戏剧.png" group-title="🇹🇼台灣頻道",三立戏剧
 https://hls-gateway.vpstv.net/streams/476288.m3u8
 #EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立戏剧.png" group-title="🇹🇼台灣頻道",三立戏剧
 https://stream1.freetv.fun/ca373f72a58fbaa7d7f60f5e91383eb0fd3a4965a74ce46f89f6e660b6b3c2e9.ctv
 #EXTINF:-1 tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立综合.png" group-title="🇹🇼台灣頻道",三立综合
 https://tv.iill.top/4gtv/4gtv-live207
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立综合.png" group-title="🇹🇼台灣頻道",三立综合
+https://mao.ffmking888.dpdns.org/?id=5LiJ56uL57ac5ZCI5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立综合.png" group-title="🇹🇼台灣頻道",三立综合
+https://stream1.freetv.fun/bf77f967ec1515363856c284df765847f6edc28d20e6bba80e91e15e8e90283b.ctv
 #EXTINF:-1 tvg-name="三立财经新闻" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立财经新闻.png" group-title="🇹🇼台灣頻道",三立财经新闻
 https://hls-gateway.vpstv.net/streams/488992.m3u8
 #EXTINF:-1 tvg-name="三立都会" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/三立都会.png" group-title="🇹🇼台灣頻道",三立都会
@@ -413,6 +463,8 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-long
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn05
 #EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/博斯高球.png" group-title="🇹🇼台灣頻道",博斯高球
 https://hls-gateway.vpstv.net/streams/477089.m3u8
+#EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/博斯高球.png" group-title="🇹🇼台灣頻道",博斯高球
+https://smart.dxjc.pp.ua/smart.php?id=bosigolf1_twn&token=tmxk
 #EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/博斯高球2.png" group-title="🇹🇼台灣頻道",博斯高球2
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn06
 #EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/博斯高球2.png" group-title="🇹🇼台灣頻道",博斯高球2
@@ -429,6 +481,10 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-long
 https://hls-gateway.vpstv.net/streams/477598.m3u8
 #EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/博斯魅力.png" group-title="🇹🇼台灣頻道",博斯魅力
 https://tv.iill.top/litv/litv-longturn04
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/博斯魅力.png" group-title="🇹🇼台灣頻道",博斯魅力
+https://4gtv.dxjc.pp.ua/litv-longturn04/index.m3u8
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/博斯魅力.png" group-title="🇹🇼台灣頻道",博斯魅力
+https://stream1.freetv.fun/bo-si-mei-li-4.ctv
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森新闻.png" group-title="🇹🇼台灣頻道",东森新闻
 https://hls-gateway.vpstv.net/streams/476998.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森新闻.png" group-title="🇹🇼台灣頻道",东森新闻
@@ -445,6 +501,8 @@ https://stream1.freetv.fun/ya-zhou-xin-wen-1.m3u8
 https://hls-gateway.vpstv.net/streams/476264.m3u8
 #EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森戏剧.png" group-title="🇹🇼台灣頻道",东森戏剧
 https://hls-gateway.vpstv.net/streams/476994.m3u8
+#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森戏剧.png" group-title="🇹🇼台灣頻道",东森戏剧
+https://stream1.freetv.fun/9eeff1989f270f4e5f549936f7ef15199afd22a7874e4ebd0d90a5a4afd7f0f6.ctv
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森财经.png" group-title="🇹🇼台灣頻道",东森财经
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森财经.png" group-title="🇹🇼台灣頻道",东森财经
@@ -453,6 +511,8 @@ https://hls-gateway.vpstv.net/streams/477062.m3u8
 https://tv.iill.top/litv/4gtv-4gtv153
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森财经.png" group-title="🇹🇼台灣頻道",东森财经
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv153
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森财经.png" group-title="🇹🇼台灣頻道",东森财经
+https://mao.ffmking888.dpdns.org/?id=5p2x5qOu6LKh57aT5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森综合.png" group-title="🇹🇼台灣頻道",东森综合
 https://hls-gateway.vpstv.net/streams/476987.m3u8
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森综合.png" group-title="🇹🇼台灣頻道",东森综合
@@ -479,6 +539,8 @@ https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森电影.png" group-title="🇹🇼台灣頻道",东森电影
 https://stream1.freetv.fun/6b8a5c6e5a8e4e580cdf8d06b234dc16e55d77589ca82e15dfaf2afabaeafbbd.ctv
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森电影.png" group-title="🇹🇼台灣頻道",东森电影
+https://stream1.freetv.fun/2212103ef4678ce9066ca13244ed9e8c082925150ef23389197e812a4b1b1bfe.ctv
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森洋片.png" group-title="🇹🇼台灣頻道",东森洋片
 http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/东森洋片.png" group-title="🇹🇼台灣頻道",东森洋片
@@ -507,16 +569,32 @@ https://hls-gateway.vpstv.net/streams/488988.m3u8
 https://hls-gateway.vpstv.net/streams/488989.m3u8
 #EXTINF:-1 tvg-name="非凡商業" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/非凡商業.png" group-title="🇹🇼台灣頻道",非凡商業
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv048
+#EXTINF:-1 tvg-name="非凡商業" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/非凡商業.png" group-title="🇹🇼台灣頻道",非凡商業
+https://4gtv.dxjc.pp.ua/4gtv-4gtv048/index.m3u8
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/鏡電視新聞台.png" group-title="🇹🇼台灣頻道",鏡電視新聞台
 https://tv.iill.top/litv/4gtv-4gtv075
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/鏡電視新聞台.png" group-title="🇹🇼台灣頻道",鏡電視新聞台
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv075
+#EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/鏡電視新聞台.png" group-title="🇹🇼台灣頻道",鏡電視新聞台
+https://mao.ffmking888.dpdns.org/?id=6Yah6Zu76KaW5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/鏡電視新聞台.png" group-title="🇹🇼台灣頻道",鏡電視新聞台
+https://4gtv.dxjc.pp.ua/li-4gtv-4gtv075/index.m3u8
+#EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/鏡電視新聞台.png" group-title="🇹🇼台灣頻道",鏡電視新聞台
+https://4gtv.dxjc.pp.ua/4gtv-4gtv075/index.m3u8
 #EXTINF:-1 tvg-name="CNBC Asia 財經台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/CNBC Asia 財經台.png" group-title="🇹🇼台灣頻道",CNBC Asia 財經台
 https://tv.iill.top/4gtv/4gtv-live130
 #EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/亞洲旅遊台.png" group-title="🇹🇼台灣頻道",亞洲旅遊台
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv076
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/亞洲旅遊台.png" group-title="🇹🇼台灣頻道",亞洲旅遊台
+https://mao.ffmking888.dpdns.org/?id=5Lqe5rSy5peF6YGK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/時尚運動X.png" group-title="🇹🇼台灣頻道",時尚運動X
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv014
+#EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/時尚運動X.png" group-title="🇹🇼台灣頻道",時尚運動X
+https://4gtv.dxjc.pp.ua/li-4gtv-4gtv014/index.m3u8
+#EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/時尚運動X.png" group-title="🇹🇼台灣頻道",時尚運動X
+https://4gtv.dxjc.pp.ua/4gtv-4gtv014/index.m3u8
+#EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/時尚運動X.png" group-title="🇹🇼台灣頻道",時尚運動X
+https://mao.ffmking888.dpdns.org/?id=5pmC5bCa6YGL5YuVWAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="智林體育" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/智林體育.png" group-title="🇹🇼台灣頻道",智林體育
 http://pullpackage.alivecdn.com/live/vceGKKHBVezUhHvWcKcCeOWAUWi8tOzBbsJgqOKJCiPyqpiBpE.flv
 #EXTINF:-1 tvg-name="智林體育" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/智林體育.png" group-title="🇹🇼台灣頻道",智林體育
@@ -529,16 +607,28 @@ https://tv.iill.top/litv/4gtv-4gtv101
 https://stream1.freetv.fun/af9d703d2ab9c04e0f328cf743f3db5a082865fb6e5f0623721b80751196fbb0.ctv
 #EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/影迷數位紀實台.png" group-title="🇹🇼台灣頻道",影迷數位紀實台
 https://tv.iill.top/litv/litv-ftv15
+#EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/影迷數位紀實台.png" group-title="🇹🇼台灣頻道",影迷數位紀實台
+https://4gtv.dxjc.pp.ua/litv-ftv15/index.m3u8
+#EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/影迷數位紀實台.png" group-title="🇹🇼台灣頻道",影迷數位紀實台
+https://4gtv.dxjc.pp.ua/li-litv-ftv15/index.m3u8
+#EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/影迷數位紀實台.png" group-title="🇹🇼台灣頻道",影迷數位紀實台
+https://mao.ffmking888.dpdns.org/?id=5b2x6La35pW45L2N57SA5aam5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/影迷數位電影台.png" group-title="🇹🇼台灣頻道",影迷數位電影台
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv011
 #EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/影迷數位電影台.png" group-title="🇹🇼台灣頻道",影迷數位電影台
 https://hls-gateway.vpstv.net/streams/708907.m3u8
 #EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/影迷數位電影台.png" group-title="🇹🇼台灣頻道",影迷數位電影台
 https://tv.iill.top/litv/4gtv-4gtv011
+#EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/影迷數位電影台.png" group-title="🇹🇼台灣頻道",影迷數位電影台
+https://4gtv.dxjc.pp.ua/li-4gtv-4gtv011/index.m3u8
+#EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/影迷數位電影台.png" group-title="🇹🇼台灣頻道",影迷數位電影台
+https://4gtv.dxjc.pp.ua/4gtv-4gtv011/index.m3u8
 #EXTINF:-1 tvg-name="amc電影台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/amc電影台.png" group-title="🇹🇼台灣頻道",amc電影台
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv017
 #EXTINF:-1 tvg-name="amc電影台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/amc電影台.png" group-title="🇹🇼台灣頻道",amc電影台
 https://hls-gateway.vpstv.net/streams/477058.m3u8
+#EXTINF:-1 tvg-name="amc電影台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/amc電影台.png" group-title="🇹🇼台灣頻道",amc電影台
+https://mao.ffmking888.dpdns.org/?id=YW1j6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="CatchPlay" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/CatchPlay.png" group-title="🇹🇼台灣頻道",CatchPlay
 https://hls-gateway.vpstv.net/streams/708881.m3u8
 #EXTINF:-1 tvg-name="公视台语" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/公视台语.png" group-title="🇹🇼台灣頻道",公视台语
@@ -575,6 +665,8 @@ https://tv.iill.top/litv/4gtv-4gtv042
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv042
 #EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/公视戏剧.png" group-title="🇹🇼台灣頻道",公视戏剧
 https://stream1.freetv.fun/5d7f7cd3ae208653f25e1f78ef7f4684b10b37f034002f7566d045a779fe1cdf.ctv
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/公视戏剧.png" group-title="🇹🇼台灣頻道",公视戏剧
+https://4gtv.dxjc.pp.ua/li-4gtv-4gtv042/index.m3u8
 #EXTINF:-1 tvg-name="华艺MBC综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/华艺MBC综合.png" group-title="🇹🇼台灣頻道",华艺MBC综合
 http://pullpackage.alivecdn.com/live/JNFujWQCFcYCBU2iOu2XAyb3mbuNNsJgqOHJRuFYfN3ccgIZrS.flv
 #EXTINF:-1 tvg-name="华语影院" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/华语影院.png" group-title="🇹🇼台灣頻道",华语影院
@@ -585,12 +677,18 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv
 https://tv.iill.top/litv/4gtv-4gtv049
 #EXTINF:-1 tvg-name="采昌影劇台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/采昌影劇台.png" group-title="🇹🇼台灣頻道",采昌影劇台
 https://stream1.freetv.fun/d0d8461e571fe93406ed3f623be416401c7337bdab89b823491b9720070068b4.ctv
+#EXTINF:-1 tvg-name="采昌影劇台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/采昌影劇台.png" group-title="🇹🇼台灣頻道",采昌影劇台
+https://mao.ffmking888.dpdns.org/?id=6YeH5piM5b2x5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="台湾戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/台湾戏剧.png" group-title="🇹🇼台灣頻道",台湾戏剧
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn22
 #EXTINF:-1 tvg-name="台湾戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/台湾戏剧.png" group-title="🇹🇼台灣頻道",台湾戏剧
 https://tv.iill.top/litv/litv-longturn22
 #EXTINF:-1 tvg-name="台湾戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/台湾戏剧.png" group-title="🇹🇼台灣頻道",台湾戏剧
 https://stream1.freetv.fun/82841717ffaf57a37d678d54b21fa9aabc5ef0f96318fcb07ac7841aff370103.ctv
+#EXTINF:-1 tvg-name="台湾戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/台湾戏剧.png" group-title="🇹🇼台灣頻道",台湾戏剧
+https://4gtv.dxjc.pp.ua/litv-longturn22/index.m3u8
+#EXTINF:-1 tvg-name="台湾戏剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/台湾戏剧.png" group-title="🇹🇼台灣頻道",台湾戏剧
+https://4gtv.dxjc.pp.ua/li-litv-longturn22/index.m3u8
 #EXTINF:-1 tvg-name="電影原聲台CMusic" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/電影原聲台CMusic.png" group-title="🇹🇼台灣頻道",電影原聲台CMusic
 https://hls-gateway.vpstv.net/streams/708938.m3u8
 #EXTINF:-1 tvg-name="電影原聲台CMusic" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/電影原聲台CMusic.png" group-title="🇹🇼台灣頻道",電影原聲台CMusic
@@ -627,6 +725,8 @@ https://live.catvod.com/live.php?id=Nickelodeon&token=693470241e9e01a4473b289d10
 https://hls-gateway.vpstv.net/streams/708917.m3u8
 #EXTINF:-1 tvg-name="達文西頻道" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/達文西頻道.png" group-title="🇹🇼台灣頻道",達文西頻道
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv018
+#EXTINF:-1 tvg-name="達文西頻道" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/達文西頻道.png" group-title="🇹🇼台灣頻道",達文西頻道
+https://mao.ffmking888.dpdns.org/?id=6YGU5paH6KWz6aC76YGT&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="MOMO亲子" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/MOMO亲子.png" group-title="🇹🇼台灣頻道",MOMO亲子
 https://hls-gateway.vpstv.net/streams/477060.m3u8
 #EXTINF:-1 tvg-name="MOMO亲子" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/MOMO亲子.png" group-title="🇹🇼台灣頻道",MOMO亲子
@@ -645,6 +745,12 @@ https://tv.iill.top/litv/4gtv-4gtv083
 https://stream1.freetv.fun/b33c54b7c7025bd37af5ee36a17fa1a8dde0893d5f00f4e2c15f87a7e5238541.ctv
 #EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/豬哥亮歌廳秀.png" group-title="🇹🇼台灣頻道",豬哥亮歌廳秀
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv006
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/豬哥亮歌廳秀.png" group-title="🇹🇼台灣頻道",豬哥亮歌廳秀
+https://mao.ffmking888.dpdns.org/?id=6LGs5ZOl5Lqu5q2M5buz56eA&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/豬哥亮歌廳秀.png" group-title="🇹🇼台灣頻道",豬哥亮歌廳秀
+https://4gtv.dxjc.pp.ua/li-4gtv-4gtv006/index.m3u8
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/豬哥亮歌廳秀.png" group-title="🇹🇼台灣頻道",豬哥亮歌廳秀
+https://4gtv.dxjc.pp.ua/4gtv-4gtv006/index.m3u8
 #EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/TRACE Urban.png" group-title="🇹🇼台灣頻道",TRACE Urban
 https://tv.iill.top/litv/4gtv-4gtv082
 #EXTINF:-1 tvg-name="韓國娛樂台KMTV" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/韓國娛樂台KMTV.png" group-title="🇹🇼台灣頻道",韓國娛樂台KMTV
@@ -679,6 +785,10 @@ https://live.catvod.com/live.php?id=bloomberg_twn&token=3795d5bd3cf0564c5a2d02ee
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv03
 #EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/第1商業台.png" group-title="🇹🇼台灣頻道",第1商業台
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv104
+#EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/第1商業台.png" group-title="🇹🇼台灣頻道",第1商業台
+https://4gtv.dxjc.pp.ua/li-4gtv-4gtv104/index.m3u8
+#EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/第1商業台.png" group-title="🇹🇼台灣頻道",第1商業台
+https://4gtv.dxjc.pp.ua/4gtv-4gtv104/index.m3u8
 #EXTINF:-1 tvg-name="Smart知識台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/Smart知識台.png" group-title="🇹🇼台灣頻道",Smart知識台
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn19
 #EXTINF:-1 tvg-name="Smart知識台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/Smart知識台.png" group-title="🇹🇼台灣頻道",Smart知識台
@@ -687,6 +797,8 @@ https://hls-gateway.vpstv.net/streams/708952.m3u8
 https://tv.iill.top/litv/litv-longturn19
 #EXTINF:-1 tvg-name="Smart知識台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/Smart知識台.png" group-title="🇹🇼台灣頻道",Smart知識台
 https://stream1.freetv.fun/3886db3e934cc12239ac8a96209e0b38cca995c6ffdd2b15f9df6603ac9d494a.ctv
+#EXTINF:-1 tvg-name="Smart知識台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/Smart知識台.png" group-title="🇹🇼台灣頻道",Smart知識台
+https://4gtv.dxjc.pp.ua/litv-longturn19/index.m3u8
 #EXTINF:-1 tvg-name="原住民电视" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/原住民电视.png" group-title="🇹🇼台灣頻道",原住民电视
 https://hls-gateway.vpstv.net/streams/476228.m3u8
 #EXTINF:-1 tvg-name="客家电视" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/客家电视.png" group-title="🇹🇼台灣頻道",客家电视
@@ -765,6 +877,8 @@ https://tv.iill.top/litv/4gtv-4gtv101
 https://stream1.freetv.fun/af9d703d2ab9c04e0f328cf743f3db5a082865fb6e5f0623721b80751196fbb0.ctv
 #EXTINF:-1 tvg-name="ELTA体育2" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA体育2.png" group-title="🇹🇼台灣頻道",ELTA体育2
 https://hls-gateway.vpstv.net/streams/477079.m3u8
+#EXTINF:-1 tvg-name="ELTA体育2" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA体育2.png" group-title="🇹🇼台灣頻道",ELTA体育2
+https://stream1.freetv.fun/4dda0091c944f38926e536d6480d640c04d477d0550a7204fc596c9ea85c97af.ctv
 #EXTINF:-1 tvg-name="ELTA体育4" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA体育4.png" group-title="🇹🇼台灣頻道",ELTA体育4
 https://hls-gateway.vpstv.net/streams/708875.m3u8
 #EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA娱乐.png" group-title="🇹🇼台灣頻道",ELTA娱乐
@@ -773,12 +887,26 @@ http://pullpackage.alivecdn.com/live/LCsWIoNQxJHPuEfJnj40Szok25ACdgu47VKY8bsJgqO
 http://pullpackage.alivecdn.com/live/0wMCxCM1oSG6URf0N4REZ8mppQsZ7yp5sJgqO7DB1aSWOZqkmg.flv
 #EXTINF:-1 tvg-name="ELTA影剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA影剧.png" group-title="🇹🇼台灣頻道",ELTA影剧
 https://hls-gateway.vpstv.net/streams/476282.m3u8
+#EXTINF:-1 tvg-name="ELTA影剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA影剧.png" group-title="🇹🇼台灣頻道",ELTA影剧
+https://stream1.freetv.fun/f0f6cd93da601180dc093fcf90c4caf4554fc7f4d6a7b0eebab2935a58dca277.ctv
+#EXTINF:-1 tvg-name="ELTA生活旅游" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA生活旅游.png" group-title="🇹🇼台灣頻道",ELTA生活旅游
+https://4gtv.dxjc.pp.ua/4gtv-live120/index.m3u8
 #EXTINF:-1 tvg-name="ELTA生活英语" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA生活英语.png" group-title="🇹🇼台灣頻道",ELTA生活英语
 https://tv.iill.top/litv/litv-longturn20
+#EXTINF:-1 tvg-name="ELTA生活英语" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA生活英语.png" group-title="🇹🇼台灣頻道",ELTA生活英语
+https://mao.ffmking888.dpdns.org/?id=RUxUVueUnaa0uaiLseiqnuWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 tvg-name="ELTA生活英语" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA生活英语.png" group-title="🇹🇼台灣頻道",ELTA生活英语
+https://4gtv.dxjc.pp.ua/litv-longturn20/index.m3u8
+#EXTINF:-1 tvg-name="ELTA生活英语" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA生活英语.png" group-title="🇹🇼台灣頻道",ELTA生活英语
+https://4gtv.dxjc.pp.ua/of-litv-longturn20/index.m3u8
+#EXTINF:-1 tvg-name="ELTA生活英语" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA生活英语.png" group-title="🇹🇼台灣頻道",ELTA生活英语
+https://4gtv.dxjc.pp.ua/li-litv-longturn20/index.m3u8
 #EXTINF:-1 tvg-name="ELTA综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA综合.png" group-title="🇹🇼台灣頻道",ELTA综合
 http://pullpackage.alivecdn.com/live/0WZkF5aXiP9zuzNrbyrESsIkaqfL0hkGpJsJgqOqFQ7poRQYW7.flv
 #EXTINF:-1 tvg-name="ELTA综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA综合.png" group-title="🇹🇼台灣頻道",ELTA综合
 https://hls-gateway.vpstv.net/streams/477041.m3u8
+#EXTINF:-1 tvg-name="ELTA综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA综合.png" group-title="🇹🇼台灣頻道",ELTA综合
+https://stream1.freetv.fun/88d87b2244418c86f42b52aa6324124d6f6aef835cecd9ed3e2753e3c8846b21.ctv
 #EXTINF:-1 tvg-name="EYETV戏剧台HD" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/EYETV戏剧台HD.png" group-title="🇹🇼台灣頻道",EYETV戏剧台HD
 https://live.catvod.com/live.php?id=eyetvxiju_twn&token=10157e37c124c20c861e23c26bc279c2a87e033661956faa946ea01fdc67f8fc%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="EYETV戏剧台HD" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/EYETV戏剧台HD.png" group-title="🇹🇼台灣頻道",EYETV戏剧台HD
@@ -891,6 +1019,8 @@ https://hls-gateway.vpstv.net/streams/476227.m3u8
 https://tv.iill.top/litv/litv-ftv16
 #EXTINF:-1 tvg-name="好消息1" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/好消息1.png" group-title="🇹🇼台灣頻道",好消息1
 https://stream1.freetv.fun/4aa5028a292feeab65651639f5d25f212d77dc531a8832de5e6db03f48dc538d.m3u8
+#EXTINF:-1 tvg-name="好消息1" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/好消息1.png" group-title="🇹🇼台灣頻道",好消息1
+https://stream1.freetv.fun/hao-xiao-xi-4.m3u8
 #EXTINF:-1 tvg-name="好消息2" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/好消息2.png" group-title="🇹🇼台灣頻道",好消息2
 https://live.catvod.com/live.php?id=good2_twn&token=5bc4cd5ddcf311802e6bbc2b00966e04258e5e34c43d8ca32af16d4ebbf4e580%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="好消息2" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/好消息2.png" group-title="🇹🇼台灣頻道",好消息2
@@ -1461,5 +1591,5 @@ http://luobo.bkpcp.top/yy/1382745184
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
 http://live.iill.top/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-11-05 16:45:35
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-11-06 16:44:44
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
