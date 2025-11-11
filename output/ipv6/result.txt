@@ -469,6 +469,7 @@ HBO,https://bee.188766.xyz/bee?id=beesport&pid=HBO&token=96224f7596224f7596224f7
 HBO,https://stream1.freetv.fun/hbo-11.m3u8
 HBO,https://stream1.freetv.fun/hbo-14.m3u8
 HBO2,https://hls-gateway.vpstv.net/streams/477732.m3u8
+HBO2,https://smart.pendy.dpdns.org/bee.php?id=HBO_2_Live_TV
 HBO温馨家庭,http://pullpackage.alivecdn.com/live/Tqdug9EazZEp4bxePek6dFIsFOg7sJgqOd6vJQvmCg2ibF3W0Z.flv
 HBO温馨家庭,https://live.catvod.com/live.php?id=Hbofamily&token=81f7243a7a20632ad300635cca7ff8d099cf9b07deffc88cecde30c6d325b460%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 HBO温馨家庭,https://live.catvod.com/live.php?id=Hbofamily&token=56980d794b0bb10aa0383ba71caf9c610befac76f3c7f45efde5edb3fe758ad4%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
@@ -811,4 +812,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-11-10 16:43:32,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-11-11 16:42:46,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
