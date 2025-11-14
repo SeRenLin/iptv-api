@@ -58,6 +58,7 @@
 中天新闻,https://tv.iill.top/litv/4gtv-4gtv009
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 中天亚洲,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
+中天亚洲,https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8
 中天娛樂,https://hls-gateway.vpstv.net/streams/476996.m3u8
 中天娛樂,https://stream1.freetv.fun/273feeba13fbb981cd84c91626576722b00e46b6aadf5c3fff46b3267dcd3131.m3u8
 中天娛樂,https://stream1.freetv.fun/2a811fc0305ed1797d97d3c437818d720bfea3827e77cdf4e503f49a47f1a78c.m3u8
@@ -119,7 +120,9 @@
 靖天欢乐,https://hls-gateway.vpstv.net/streams/476253.m3u8
 靖天欢乐,https://tv.iill.top/litv/4gtv-4gtv054
 龍華偶像台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn12
+龍華偶像台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn12
 龍華洋片台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn02
+龍華洋片台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn02
 靖洋戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv045
 靖洋戲劇台,https://mao.ffmking888.dpdns.org/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖洋卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv057
@@ -294,6 +297,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 CNBC Asia 財經台,https://tv.iill.top/4gtv/4gtv-live130
 亞洲旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv076
 亞洲旅遊台,https://mao.ffmking888.dpdns.org/?id=5Lqe5rSy5peF6YGK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+亞洲旅遊台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv076
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv014
 時尚運動X,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv014/index.m3u8
 時尚運動X,https://4gtv.dxjc.pp.ua/4gtv-4gtv014/index.m3u8
@@ -395,6 +399,7 @@ Bloomberg TV,https://live.catvod.com/live.php?id=bloomberg_twn&token=3795d5bd3cf
 第1商業台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv104
 第1商業台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv104/index.m3u8
 第1商業台,https://4gtv.dxjc.pp.ua/4gtv-4gtv104/index.m3u8
+第1商業台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv104
 Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn19
 Smart知識台,https://hls-gateway.vpstv.net/streams/708952.m3u8
 Smart知識台,https://tv.iill.top/litv/litv-longturn19
@@ -819,4 +824,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-11-13 16:43:25,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-11-14 16:42:47,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
