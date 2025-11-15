@@ -253,6 +253,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
 东森亚洲新闻,https://stream1.freetv.fun/ya-zhou-xin-wen-1.m3u8
 东森亚洲卫视,https://hls-gateway.vpstv.net/streams/476264.m3u8
+东森亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
+东森亚洲卫视,rtmp://pull-hsbj.vzan.com/v/slowlive_821481626725612419
 东森戏剧,https://hls-gateway.vpstv.net/streams/476994.m3u8
 东森戏剧,https://stream1.freetv.fun/9eeff1989f270f4e5f549936f7ef15199afd22a7874e4ebd0d90a5a4afd7f0f6.ctv
 东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
@@ -824,4 +826,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-11-14 16:42:47,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-11-15 16:39:15,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
