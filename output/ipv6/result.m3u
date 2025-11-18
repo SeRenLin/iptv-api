@@ -121,6 +121,8 @@ https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
 #EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/中天亚洲.png" group-title="🇹🇼台灣頻道",中天亚洲
 https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/中天亚洲.png" group-title="🇹🇼台灣頻道",中天亚洲
+https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv109
 #EXTINF:-1 tvg-name="中天娛樂" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/中天娛樂.png" group-title="🇹🇼台灣頻道",中天娛樂
 https://hls-gateway.vpstv.net/streams/476996.m3u8
 #EXTINF:-1 tvg-name="中天娛樂" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/中天娛樂.png" group-title="🇹🇼台灣頻道",中天娛樂
@@ -1611,6 +1613,8 @@ http://lu.wqwqwq.sbs/yy/1354930909
 https://live.iill.top/huya/23865142
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
 http://live.iill.top/yy.php?id=1354282410
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+https://live.ottiptv.cc/huya/26355790
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/天龙八部.png" group-title="🏛经典剧场",天龙八部
 http://luobo.bkpcp.top/yy/1382736855
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/天龙八部.png" group-title="🏛经典剧场",天龙八部
@@ -1619,6 +1623,8 @@ http://www.clmy.cc:35455/yy/1355067965
 https://live.metshop.top/huya/23903123
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/天龙八部.png" group-title="🏛经典剧场",天龙八部
 http://live.iill.top/yy.php?id=1351814644
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/天龙八部.png" group-title="🏛经典剧场",天龙八部
+https://live.ottiptv.cc/huya/20985816
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
 http://live.iill.top/yy.php?id=1382704650
 #EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/仙剑奇侠传.png" group-title="🏛经典剧场",仙剑奇侠传
@@ -1653,11 +1659,13 @@ http://luobo.bkpcp.top/yy/1353426319
 http://www.clmy.cc:35455/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/封神榜.png" group-title="🏛经典剧场",封神榜
 http://live.iill.top/yy.php?id=1353426319
+#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/封神榜.png" group-title="🏛经典剧场",封神榜
+http://live.ottiptv.cc/huya/29465849
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/上海滩.png" group-title="🏛经典剧场",上海滩
 http://luobo.bkpcp.top/yy/1382745184
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/上海滩.png" group-title="🏛经典剧场",上海滩
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
 http://live.iill.top/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-11-17 16:43:02
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-11-18 16:41:02
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
