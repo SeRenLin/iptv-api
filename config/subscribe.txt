@@ -1,6 +1,16 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/litv.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper-Ts.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/logo-smart.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u
+https://ofiii.passwdword.xyz/ofiii.php
+
 https://weathered-resonance-0927.alan-soon.workers.dev/?list=true&auth=d13e351cd112c80535278df5b20251b6de1e8cc8eb90b27365237f984cef1d5346ab4f08a43ddaff69896a6337a78e50
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 #https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
