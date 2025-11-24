@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251124084313 +0800">
+<tv date="20251124104104 +0800">
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
 	</channel>
@@ -4176,6 +4176,12 @@
 	<programme channel="NewTV惊悚悬疑" start="20251124154000 +0800" stop="20251124161000 +0800">
 		<title lang="zh">健康推荐新码</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251124161000 +0800" stop="20251124174400 +0800">
+		<title lang="zh">男狐聊斋3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251124174400 +0800" stop="20251124181800 +0800">
+		<title lang="zh">告别煮妇手</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -5957,6 +5963,12 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251124150900 +0800" stop="20251124165500 +0800">
 		<title lang="zh">警察故事2013</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251124165500 +0800" stop="20251124174000 +0800">
+		<title lang="zh">告别煮妇手</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251124174000 +0800" stop="20251124184700 +0800">
+		<title lang="zh">破千者之天下公敌</title>
 	</programme>
 	<channel id="LSTIME电影">
 		<display-name lang="zh">LSTIME电影</display-name>
