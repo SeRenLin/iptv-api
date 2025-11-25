@@ -432,6 +432,7 @@ Mezzo Live,https://stream1.freetv.fun/b33c54b7c7025bd37af5ee36a17fa1a8dde0893d5f
 豬哥亮歌廳秀,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv006
 TRACE Urban,https://tv.iill.top/litv/4gtv-4gtv082
 TRACE Urban,https://mytv.passwdword.xyz/mytv265.php?id=TRUR
+TRACE Urban,https://ofiii.passwdword.xyz/mytv265.php?id=TRUR
 韓國娛樂台KMTV,https://tv.iill.top/litv/4gtv-4gtv016
 LUXE TV,https://hls-gateway.vpstv.net/streams/708943.m3u8
 LUXE TV,https://tv.iill.top/4gtv/4gtv-live121
@@ -894,4 +895,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-11-24 18:41:05,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-11-25 16:44:29,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
