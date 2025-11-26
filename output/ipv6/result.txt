@@ -471,6 +471,7 @@ Global News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 大爱1,https://live.lalifeier.eu.org/youtube/MIqUplvSRWA.m3u8?t=1763162625&key=5ac2afc977ac4150296c9cd5d17aba14
 大爱1,https://smt.passwdword.xyz/Smart.php?id=daai_twn
 大爱1,https://tzh911.qzz.io/play-smt.php?id=daai_twn
+大爱1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 大爱2,https://live.catvod.com/live.php?id=daai2_twn&token=2e6e52481b0a2cd0f30df405ef847f8ccfdc512520db5b844ec5335dd44adb55%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 大爱2,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
@@ -895,4 +896,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-11-25 16:44:29,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-11-26 16:41:53,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
