@@ -188,6 +188,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 八大第一,https://smt.passwdword.xyz/Smart.php?id=badafirst
 八大第一,https://tzh911.qzz.io/play-smt.php?id=badafirst
 八大第一,https://simate.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
+八大第一,https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
 八大精彩,https://hls-gateway.vpstv.net/streams/477035.m3u8
 八大精彩,https://tv.iill.top/litv/4gtv-4gtv034
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv034
@@ -385,6 +386,7 @@ CatchPlay,https://hls-gateway.vpstv.net/streams/708881.m3u8
 华艺MBC综合,https://smt.passwdword.xyz/Smart.php?id=weishichinese_twn
 华艺MBC综合,https://tzh911.qzz.io/play-smt.php?id=weishichinese_twn
 华艺MBC综合,https://simate.go-iptv.ggff.net/smart.php?id=weishichinese_twn&token=Goiptv
+华艺MBC综合,https://smt.go-iptv.ggff.net/smart.php?id=weishichinese_twn&token=Goiptv
 华语影院,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288005/index.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=YanG-1989
 采昌影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv049
 采昌影劇台,https://tv.iill.top/litv/4gtv-4gtv049
@@ -432,6 +434,8 @@ MTVLive音樂頻道,https://tv.iill.top/4gtv/4gtv-live025
 Mezzo Live,https://tv.iill.top/litv/4gtv-4gtv083
 Mezzo Live,https://stream1.freetv.fun/b33c54b7c7025bd37af5ee36a17fa1a8dde0893d5f00f4e2c15f87a7e5238541.ctv
 Mezzo Live,https://stream1.freetv.fun/b319b683b88456ffb077590201e77368a4ece6a72b6642915f6b108fa59290b1.m3u8
+Mezzo Live,https://stream1.freetv.fun/b33c54b7c7025bd37af5ee36a17fa1a8dde0893d5f00f4e2c15f87a7e5238541.m3u8
+Mezzo Live,https://stream1.freetv.fun/96df0086d03d13140fd1bebf6290c07bcc3e5724de6defb32e1d1eb3de7fe94c.m3u8
 豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv006
 豬哥亮歌廳秀,https://mao.ffmking888.dpdns.org/?id=6LGs5ZOl5Lqu5q2M5buz56eA&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 豬哥亮歌廳秀,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv006/index.m3u8
@@ -450,6 +454,9 @@ PET CLUB TV,https://stream1.freetv.fun/08fd35f18cd1a26fe08be8595efdb627fea3a00f1
 PET CLUB TV,https://stream1.freetv.fun/43e3d201d62dd5f1492697364a0f43db2fb76186dcb15b54d340d2fe97e8cc11.m3u8
 FUN探索娱乐台,https://tv.iill.top/4gtv/4gtv-live011
 FUN探索娱乐台,https://stream1.freetv.fun/6a70b67324f2e59e2a50a12ee3f4d8a3604b82335906fc6914aa96dc8d636f45.m3u8
+FUN探索娱乐台,https://stream1.freetv.fun/8f88e5838dcc66f8fc13757ff08289074eec2857c732856308ea6ed46a78380b.m3u8
+FUN探索娱乐台,https://stream1.freetv.fun/c00adb9ff3143b585ae04d8795455809c009818692d3a404079d473f4973e343.m3u8
+FUN探索娱乐台,https://stream1.freetv.fun/e4e1b34364d6f4279f1fba823951f2ec5c6cc33661794cffc3f93e63a27562e3.m3u8
 Bloomberg TV,https://live.catvod.com/live.php?id=bloomberg_twn&token=9eacdec2f3d853ecea166c7931e3ea01b3b7d859ecd9d7cbfb9f98de72087c37%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 Bloomberg TV,https://hls-gateway.vpstv.net/streams/476638.m3u8
 Bloomberg TV,https://hls-gateway.vpstv.net/streams/477810.m3u8
@@ -476,6 +483,9 @@ Smart知識台,https://4gtv.dxjc.pp.ua/litv-longturn19/index.m3u8
 客家电视,https://stream1.freetv.fun/03b6e6d0f3ff0d8720179ee60c5bccad17948260e9bf66a1b77fefa9dc7f6b62.m3u8
 滾動力 rollor,https://tv.iill.top/4gtv/4gtv-live012
 滾動力 rollor,https://stream1.freetv.fun/70ce04659e31a11422f74d1ada7e44af1562f5ff2c515c5d00f7b505df2c15c2.m3u8
+滾動力 rollor,https://stream1.freetv.fun/7fa74e53c27eb54b6b3b9023624af1ab813b146b5acebf0b778360d03ab4515b.m3u8
+滾動力 rollor,https://stream1.freetv.fun/57109693f23621cabf394ca4326f65385f5580e91629e280e398013c61f837a5.m3u8
+滾動力 rollor,https://stream1.freetv.fun/6b124fc5d365e74d4c2505e76bf072b64f07fda20312e69c7f46637faf8c0eb4.m3u8
 Global News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 大爱1,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
 大爱1,https://live.lalifeier.eu.org/youtube/MIqUplvSRWA.m3u8?t=1763162625&key=5ac2afc977ac4150296c9cd5d17aba14
@@ -525,6 +535,8 @@ ELTA体育4,https://hls-gateway.vpstv.net/streams/708875.m3u8
 ELTA娱乐,http://pullpackage.alivecdn.com/live/LCsWIoNQxJHPuEfJnj40Szok25ACdgu47VKY8bsJgqOiB0Cp49.flv
 ELTA娱乐,https://stream1.freetv.fun/650cf44c93aa3eff743b37a8a76eb6284665841d09a1e9162598ffb581a33dd3.m3u8
 ELTA娱乐,https://stream1.freetv.fun/64f622094d33d45c9c491d12e1cfeca0b93cbdc078b0c01d35d50b86d335810a.m3u8
+ELTA娱乐,https://stream1.freetv.fun/187c9d39095c0c66fa50cb2a86fab75863d1906cefd9b12dff165153bd15b14f.m3u8
+ELTA娱乐,https://stream1.freetv.fun/cdc2aeb3f18c15447822fc8bdfe3574cd328960420f8f9c4f39d271ddc15808d.m3u8
 ELTA影剧,http://pullpackage.alivecdn.com/live/0wMCxCM1oSG6URf0N4REZ8mppQsZ7yp5sJgqO7DB1aSWOZqkmg.flv
 ELTA影剧,https://hls-gateway.vpstv.net/streams/476282.m3u8
 ELTA影剧,https://stream1.freetv.fun/f0f6cd93da601180dc093fcf90c4caf4554fc7f4d6a7b0eebab2935a58dca277.ctv
@@ -909,4 +921,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-12-02 16:47:05,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-12-03 16:42:53,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn

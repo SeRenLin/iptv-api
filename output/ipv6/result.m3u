@@ -377,6 +377,8 @@ https://smt.passwdword.xyz/Smart.php?id=badafirst
 https://tzh911.qzz.io/play-smt.php?id=badafirst
 #EXTINF:-1 tvg-name="八大第一" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大第一.png" group-title="🇹🇼台灣頻道",八大第一
 https://simate.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
+#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大第一.png" group-title="🇹🇼台灣頻道",八大第一
+https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
 #EXTINF:-1 tvg-name="八大精彩" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大精彩.png" group-title="🇹🇼台灣頻道",八大精彩
 https://hls-gateway.vpstv.net/streams/477035.m3u8
 #EXTINF:-1 tvg-name="八大精彩" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/八大精彩.png" group-title="🇹🇼台灣頻道",八大精彩
@@ -771,6 +773,8 @@ https://smt.passwdword.xyz/Smart.php?id=weishichinese_twn
 https://tzh911.qzz.io/play-smt.php?id=weishichinese_twn
 #EXTINF:-1 tvg-name="华艺MBC综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/华艺MBC综合.png" group-title="🇹🇼台灣頻道",华艺MBC综合
 https://simate.go-iptv.ggff.net/smart.php?id=weishichinese_twn&token=Goiptv
+#EXTINF:-1 tvg-name="华艺MBC综合" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/华艺MBC综合.png" group-title="🇹🇼台灣頻道",华艺MBC综合
+https://smt.go-iptv.ggff.net/smart.php?id=weishichinese_twn&token=Goiptv
 #EXTINF:-1 tvg-name="华语影院" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/华语影院.png" group-title="🇹🇼台灣頻道",华语影院
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288005/index.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="采昌影劇台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/采昌影劇台.png" group-title="🇹🇼台灣頻道",采昌影劇台
@@ -865,6 +869,10 @@ https://tv.iill.top/litv/4gtv-4gtv083
 https://stream1.freetv.fun/b33c54b7c7025bd37af5ee36a17fa1a8dde0893d5f00f4e2c15f87a7e5238541.ctv
 #EXTINF:-1 tvg-name="Mezzo Live" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/Mezzo Live.png" group-title="🇹🇼台灣頻道",Mezzo Live
 https://stream1.freetv.fun/b319b683b88456ffb077590201e77368a4ece6a72b6642915f6b108fa59290b1.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/Mezzo Live.png" group-title="🇹🇼台灣頻道",Mezzo Live
+https://stream1.freetv.fun/b33c54b7c7025bd37af5ee36a17fa1a8dde0893d5f00f4e2c15f87a7e5238541.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/Mezzo Live.png" group-title="🇹🇼台灣頻道",Mezzo Live
+https://stream1.freetv.fun/96df0086d03d13140fd1bebf6290c07bcc3e5724de6defb32e1d1eb3de7fe94c.m3u8
 #EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/豬哥亮歌廳秀.png" group-title="🇹🇼台灣頻道",豬哥亮歌廳秀
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv006
 #EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/豬哥亮歌廳秀.png" group-title="🇹🇼台灣頻道",豬哥亮歌廳秀
@@ -901,6 +909,12 @@ https://stream1.freetv.fun/43e3d201d62dd5f1492697364a0f43db2fb76186dcb15b54d340d
 https://tv.iill.top/4gtv/4gtv-live011
 #EXTINF:-1 tvg-name="FUN探索娱乐台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/FUN探索娱乐台.png" group-title="🇹🇼台灣頻道",FUN探索娱乐台
 https://stream1.freetv.fun/6a70b67324f2e59e2a50a12ee3f4d8a3604b82335906fc6914aa96dc8d636f45.m3u8
+#EXTINF:-1 tvg-name="FUN探索娱乐台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/FUN探索娱乐台.png" group-title="🇹🇼台灣頻道",FUN探索娱乐台
+https://stream1.freetv.fun/8f88e5838dcc66f8fc13757ff08289074eec2857c732856308ea6ed46a78380b.m3u8
+#EXTINF:-1 tvg-name="FUN探索娱乐台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/FUN探索娱乐台.png" group-title="🇹🇼台灣頻道",FUN探索娱乐台
+https://stream1.freetv.fun/c00adb9ff3143b585ae04d8795455809c009818692d3a404079d473f4973e343.m3u8
+#EXTINF:-1 tvg-name="FUN探索娱乐台" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/FUN探索娱乐台.png" group-title="🇹🇼台灣頻道",FUN探索娱乐台
+https://stream1.freetv.fun/e4e1b34364d6f4279f1fba823951f2ec5c6cc33661794cffc3f93e63a27562e3.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/Bloomberg TV.png" group-title="🇹🇼台灣頻道",Bloomberg TV
 https://live.catvod.com/live.php?id=bloomberg_twn&token=9eacdec2f3d853ecea166c7931e3ea01b3b7d859ecd9d7cbfb9f98de72087c37%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/Bloomberg TV.png" group-title="🇹🇼台灣頻道",Bloomberg TV
@@ -953,6 +967,12 @@ https://stream1.freetv.fun/03b6e6d0f3ff0d8720179ee60c5bccad17948260e9bf66a1b77fe
 https://tv.iill.top/4gtv/4gtv-live012
 #EXTINF:-1 tvg-name="滾動力 rollor" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/滾動力 rollor.png" group-title="🇹🇼台灣頻道",滾動力 rollor
 https://stream1.freetv.fun/70ce04659e31a11422f74d1ada7e44af1562f5ff2c515c5d00f7b505df2c15c2.m3u8
+#EXTINF:-1 tvg-name="滾動力 rollor" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/滾動力 rollor.png" group-title="🇹🇼台灣頻道",滾動力 rollor
+https://stream1.freetv.fun/7fa74e53c27eb54b6b3b9023624af1ab813b146b5acebf0b778360d03ab4515b.m3u8
+#EXTINF:-1 tvg-name="滾動力 rollor" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/滾動力 rollor.png" group-title="🇹🇼台灣頻道",滾動力 rollor
+https://stream1.freetv.fun/57109693f23621cabf394ca4326f65385f5580e91629e280e398013c61f837a5.m3u8
+#EXTINF:-1 tvg-name="滾動力 rollor" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/滾動力 rollor.png" group-title="🇹🇼台灣頻道",滾動力 rollor
+https://stream1.freetv.fun/6b124fc5d365e74d4c2505e76bf072b64f07fda20312e69c7f46637faf8c0eb4.m3u8
 #EXTINF:-1 tvg-name="Global News" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/Global News.png" group-title="🇹🇼台灣頻道",Global News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-name="大爱1" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/大爱1.png" group-title="🇹🇼台灣頻道",大爱1
@@ -1051,6 +1071,10 @@ http://pullpackage.alivecdn.com/live/LCsWIoNQxJHPuEfJnj40Szok25ACdgu47VKY8bsJgqO
 https://stream1.freetv.fun/650cf44c93aa3eff743b37a8a76eb6284665841d09a1e9162598ffb581a33dd3.m3u8
 #EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA娱乐.png" group-title="🇹🇼台灣頻道",ELTA娱乐
 https://stream1.freetv.fun/64f622094d33d45c9c491d12e1cfeca0b93cbdc078b0c01d35d50b86d335810a.m3u8
+#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA娱乐.png" group-title="🇹🇼台灣頻道",ELTA娱乐
+https://stream1.freetv.fun/187c9d39095c0c66fa50cb2a86fab75863d1906cefd9b12dff165153bd15b14f.m3u8
+#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA娱乐.png" group-title="🇹🇼台灣頻道",ELTA娱乐
+https://stream1.freetv.fun/cdc2aeb3f18c15447822fc8bdfe3574cd328960420f8f9c4f39d271ddc15808d.m3u8
 #EXTINF:-1 tvg-name="ELTA影剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA影剧.png" group-title="🇹🇼台灣頻道",ELTA影剧
 http://pullpackage.alivecdn.com/live/0wMCxCM1oSG6URf0N4REZ8mppQsZ7yp5sJgqO7DB1aSWOZqkmg.flv
 #EXTINF:-1 tvg-name="ELTA影剧" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/ELTA影剧.png" group-title="🇹🇼台灣頻道",ELTA影剧
@@ -1787,5 +1811,5 @@ http://luobo.bkpcp.top/yy/1382745184
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
 http://live.iill.top/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-12-02 16:47:05
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-12-03 16:42:53
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
